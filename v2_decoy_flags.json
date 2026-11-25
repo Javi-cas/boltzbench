@@ -1,0 +1,52 @@
+{
+ "G6PD": [
+  {
+   "decoy": "G6P",
+   "same_skeleton": [
+    "BG6"
+   ],
+   "nearest": "BG6",
+   "tanimoto": 1.0
+  }
+ ],
+ "PGD": [
+  {
+   "decoy": "3PG",
+   "same_skeleton": [
+    "3PG"
+   ],
+   "nearest": "3PG",
+   "tanimoto": 1.0
+  }
+ ],
+ "PHGDH": [
+  {
+   "decoy": "3PG",
+   "same_skeleton": [
+    "3PG"
+   ],
+   "nearest": "3PG",
+   "tanimoto": 1.0
+  }
+ ],
+ "PKLR": [
+  {
+   "decoy": "PEP",
+   "same_skeleton": [
+    "PEP"
+   ],
+   "nearest": "PEP",
+   "tanimoto": 1.0
+  }
+ ],
+ "PKM": [
+  {
+   "decoy": "SIN",
+   "same_skeleton": [
+    "SIN"
+   ],
+   "nearest": "SIN",
+   "tanimoto": 1.0
+  }
+ ]
+}

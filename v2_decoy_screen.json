@@ -1,0 +1,1548 @@
+{
+ "ACACB|3PG": {
+  "n": 1,
+  "pmids": [
+   "178643"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|G3P": {
+  "n": 71,
+  "pmids": [
+   "41011147",
+   "40439861",
+   "39679167"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|PEP": {
+  "n": 95,
+  "pmids": [
+   "42757461",
+   "42755137",
+   "42306191"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|R5P": {
+  "n": 1,
+  "pmids": [
+   "2879558"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|G6P": {
+  "n": 86,
+  "pmids": [
+   "41566643",
+   "41321511",
+   "41212329"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|SUC": {
+  "n": 57,
+  "pmids": [
+   "42776037",
+   "41876498",
+   "40407785"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|TRE": {
+  "n": 5,
+  "pmids": [
+   "41350078",
+   "40262882",
+   "33828577"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|SIN": {
+  "n": 17,
+  "pmids": [
+   "41796043",
+   "41612594",
+   "41359054"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ACACB|TAU": {
+  "n": 2,
+  "pmids": [
+   "32691860",
+   "32368256"
+  ],
+  "term": "(\"acetyl-CoA carboxylase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|3PG": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|PEP": {
+  "n": 3,
+  "pmids": [
+   "20827474",
+   "7159465",
+   "6117328"
+  ],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|R5P": {
+  "n": 2,
+  "pmids": [
+   "2443244",
+   "6699001"
+  ],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|G6P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|SUC": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|SIN": {
+  "n": 3,
+  "pmids": [
+   "15641804",
+   "8663109",
+   "659517"
+  ],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "ADSS2|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"adenylosuccinate synthetase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|3PG": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|G3P": {
+  "n": 30,
+  "pmids": [
+   "42525251",
+   "40439861",
+   "36859557"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|PEP": {
+  "n": 56,
+  "pmids": [
+   "42757461",
+   "42075954",
+   "42069300"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|R5P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|G6P": {
+  "n": 39,
+  "pmids": [
+   "42804348",
+   "42525251",
+   "41321511"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|SUC": {
+  "n": 37,
+  "pmids": [
+   "41378259",
+   "40780491",
+   "40407785"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|SIN": {
+  "n": 25,
+  "pmids": [
+   "42933061",
+   "42639356",
+   "41872972"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CPT1A|TAU": {
+  "n": 9,
+  "pmids": [
+   "41503442",
+   "40886467",
+   "37989713"
+  ],
+  "term": "(\"carnitine palmitoyltransferase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|3PG": {
+  "n": 3,
+  "pmids": [
+   "34361637",
+   "8798888",
+   "1003346"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|G3P": {
+  "n": 11,
+  "pmids": [
+   "38680096",
+   "35938391",
+   "27466200"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|PEP": {
+  "n": 50,
+  "pmids": [
+   "42075954",
+   "41788689",
+   "40870665"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|R5P": {
+  "n": 1,
+  "pmids": [
+   "23850830"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|G6P": {
+  "n": 55,
+  "pmids": [
+   "41977332",
+   "40870665",
+   "37730531"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|SUC": {
+  "n": 23,
+  "pmids": [
+   "42248471",
+   "41977332",
+   "41788689"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|TRE": {
+  "n": 3,
+  "pmids": [
+   "41977332",
+   "30138481",
+   "11599574"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|SIN": {
+  "n": 193,
+  "pmids": [
+   "42658669",
+   "42193899",
+   "41897799"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CS|TAU": {
+  "n": 2,
+  "pmids": [
+   "33867998",
+   "30347179"
+  ],
+  "term": "(\"citrate synthase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|3PG": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|PEP": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|R5P": {
+  "n": 1,
+  "pmids": [
+   "19754463"
+  ],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|G6P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|SUC": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|SIN": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "CTPS2|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"CTP synthase\"[tiab] OR \"CTP synthetase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|3PG": {
+  "n": 1,
+  "pmids": [
+   "15450953"
+  ],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|PEP": {
+  "n": 1,
+  "pmids": [
+   "2818126"
+  ],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|R5P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|G6P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|SUC": {
+  "n": 2,
+  "pmids": [
+   "2989022",
+   "6257352"
+  ],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|SIN": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "DCK|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"deoxycytidine kinase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|3PG": {
+  "n": 15,
+  "pmids": [
+   "31353406",
+   "15449063",
+   "12172849"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|G3P": {
+  "n": 9,
+  "pmids": [
+   "41819225",
+   "31439934",
+   "30591586"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|PEP": {
+  "n": 138,
+  "pmids": [
+   "42358154",
+   "42287785",
+   "42151764"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|R5P": {
+  "n": 4,
+  "pmids": [
+   "40320001",
+   "33556078",
+   "3030122"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|G6P": {
+  "n": 73,
+  "pmids": [
+   "42287785",
+   "40378123",
+   "38486768"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|SUC": {
+  "n": 63,
+  "pmids": [
+   "40701140",
+   "40665472",
+   "39457091"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|TRE": {
+  "n": 10,
+  "pmids": [
+   "36035709",
+   "17624457",
+   "12770104"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|SIN": {
+  "n": 18,
+  "pmids": [
+   "39523316",
+   "36204284",
+   "35122839"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "FBP1|TAU": {
+  "n": 1,
+  "pmids": [
+   "41686031"
+  ],
+  "term": "(\"fructose-1,6-bisphosphatase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|3PG": {
+  "n": 8,
+  "pmids": [
+   "23856461",
+   "2439524",
+   "3157096"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|G3P": {
+  "n": 38,
+  "pmids": [
+   "42525251",
+   "35056315",
+   "33560827"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|PEP": {
+  "n": 55,
+  "pmids": [
+   "42287785",
+   "41871815",
+   "41212329"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|R5P": {
+  "n": 61,
+  "pmids": [
+   "42426331",
+   "42362742",
+   "41873421"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|G6P": {
+  "n": 3543,
+  "pmids": [
+   "42915044",
+   "42883835",
+   "42881000"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|SUC": {
+  "n": 44,
+  "pmids": [
+   "42146266",
+   "41086510",
+   "40407785"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|TRE": {
+  "n": 14,
+  "pmids": [
+   "42287420",
+   "36585843",
+   "33827585"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|SIN": {
+  "n": 79,
+  "pmids": [
+   "42883835",
+   "41891951",
+   "41242060"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "G6PD|TAU": {
+  "n": 6,
+  "pmids": [
+   "38802677",
+   "33557752",
+   "33548410"
+  ],
+  "term": "(\"glucose-6-phosphate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|3PG": {
+  "n": 3,
+  "pmids": [
+   "1520277",
+   "116225",
+   "14340056"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|G3P": {
+  "n": 14,
+  "pmids": [
+   "37709864",
+   "35056315",
+   "33339113"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|PEP": {
+  "n": 204,
+  "pmids": [
+   "42755137",
+   "42571371",
+   "41212329"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|R5P": {
+  "n": 2,
+  "pmids": [
+   "24783860",
+   "23850830"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|G6P": {
+  "n": 304,
+  "pmids": [
+   "42571371",
+   "42024104",
+   "41856228"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|SUC": {
+  "n": 43,
+  "pmids": [
+   "40111386",
+   "37289015",
+   "34622169"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|TRE": {
+  "n": 18,
+  "pmids": [
+   "42323674",
+   "40668605",
+   "37249812"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|SIN": {
+  "n": 14,
+  "pmids": [
+   "37237850",
+   "34729306",
+   "31888393"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GCK|TAU": {
+  "n": 1,
+  "pmids": [
+   "37492950"
+  ],
+  "term": "(\"glucokinase\"[tiab] OR \"hexokinase IV\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|3PG": {
+  "n": 5,
+  "pmids": [
+   "19119913",
+   "7646077",
+   "7332866"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|G3P": {
+  "n": 8,
+  "pmids": [
+   "42525251",
+   "32781297",
+   "21734021"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|PEP": {
+  "n": 58,
+  "pmids": [
+   "41505104",
+   "41497325",
+   "40994328"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|R5P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|G6P": {
+  "n": 50,
+  "pmids": [
+   "42525251",
+   "38410805",
+   "35872042"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|SUC": {
+  "n": 32,
+  "pmids": [
+   "41751531",
+   "41676401",
+   "39673341"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|TRE": {
+  "n": 3,
+  "pmids": [
+   "38192699",
+   "11514665",
+   "10473396"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|SIN": {
+  "n": 105,
+  "pmids": [
+   "42946150",
+   "41515068",
+   "41320153"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "GLUD1|TAU": {
+  "n": 3,
+  "pmids": [
+   "9778580",
+   "8586020",
+   "20493155"
+  ],
+  "term": "(\"glutamate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|3PG": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|G3P": {
+  "n": 10,
+  "pmids": [
+   "35579414",
+   "21535797",
+   "20511713"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|PEP": {
+  "n": 5,
+  "pmids": [
+   "35789357",
+   "26389569",
+   "16427799"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|R5P": {
+  "n": 1,
+  "pmids": [
+   "17017935"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|G6P": {
+  "n": 11,
+  "pmids": [
+   "26990033",
+   "25671065",
+   "21791965"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|SUC": {
+  "n": 27,
+  "pmids": [
+   "39728509",
+   "34626855",
+   "34386322"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|SIN": {
+  "n": 9,
+  "pmids": [
+   "34684574",
+   "26007644",
+   "17942567"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "HMGCR|TAU": {
+  "n": 5,
+  "pmids": [
+   "32691860",
+   "31267167",
+   "10077432"
+  ],
+  "term": "(\"HMG-CoA reductase\"[tiab] OR \"hydroxymethylglutaryl-CoA reductase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|3PG": {
+  "n": 2,
+  "pmids": [
+   "7332866",
+   "1003346"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|G3P": {
+  "n": 8,
+  "pmids": [
+   "34052343",
+   "30794944",
+   "24024165"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|PEP": {
+  "n": 17,
+  "pmids": [
+   "40870665",
+   "39967696",
+   "36246125"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|R5P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|G6P": {
+  "n": 20,
+  "pmids": [
+   "42842047",
+   "40870665",
+   "37730531"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|SUC": {
+  "n": 4,
+  "pmids": [
+   "39894345",
+   "33736305",
+   "6424656"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|TRE": {
+  "n": 1,
+  "pmids": [
+   "12948637"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|SIN": {
+  "n": 172,
+  "pmids": [
+   "42843295",
+   "42809718",
+   "42732831"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "OGDH|TAU": {
+  "n": 1,
+  "pmids": [
+   "11164704"
+  ],
+  "term": "(\"oxoglutarate dehydrogenase\"[tiab] OR \"alpha-ketoglutarate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|3PG": {
+  "n": 4,
+  "pmids": [
+   "27765851",
+   "8457580",
+   "6643485"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|G3P": {
+  "n": 4,
+  "pmids": [
+   "19683593",
+   "11916915",
+   "7929313"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|PEP": {
+  "n": 194,
+  "pmids": [
+   "42799795",
+   "42176041",
+   "41473275"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|R5P": {
+  "n": 1,
+  "pmids": [
+   "16359766"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|G6P": {
+  "n": 29,
+  "pmids": [
+   "42719331",
+   "39479019",
+   "38231787"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|SUC": {
+  "n": 14,
+  "pmids": [
+   "42773663",
+   "39345566",
+   "31687710"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|TRE": {
+  "n": 2,
+  "pmids": [
+   "8541315",
+   "8100713"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|SIN": {
+  "n": 57,
+  "pmids": [
+   "42941930",
+   "41680274",
+   "41165417"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PC|TAU": {
+  "n": 4,
+  "pmids": [
+   "29556780",
+   "24512824",
+   "18460876"
+  ],
+  "term": "(\"pyruvate carboxylase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|3PG": {
+  "n": 3,
+  "pmids": [
+   "39119952",
+   "19119913",
+   "1003346"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|G3P": {
+  "n": 32,
+  "pmids": [
+   "41592632",
+   "39922112",
+   "38680096"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|PEP": {
+  "n": 88,
+  "pmids": [
+   "42264763",
+   "42075954",
+   "41132070"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|R5P": {
+  "n": 7,
+  "pmids": [
+   "41020695",
+   "24783860",
+   "23961261"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|G6P": {
+  "n": 82,
+  "pmids": [
+   "42411477",
+   "42298232",
+   "41977332"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|SUC": {
+  "n": 46,
+  "pmids": [
+   "42141382",
+   "41977332",
+   "41971340"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|TRE": {
+  "n": 7,
+  "pmids": [
+   "41977332",
+   "25479036",
+   "23303325"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|SIN": {
+  "n": 174,
+  "pmids": [
+   "42941930",
+   "42358142",
+   "42264763"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PDHA1|TAU": {
+  "n": 9,
+  "pmids": [
+   "38802677",
+   "37582412",
+   "37115695"
+  ],
+  "term": "(\"pyruvate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|3PG": {
+  "n": 33,
+  "pmids": [
+   "39393572",
+   "39119952",
+   "33304454"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|G3P": {
+  "n": 24,
+  "pmids": [
+   "37994189",
+   "31974165",
+   "30591586"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|PEP": {
+  "n": 246,
+  "pmids": [
+   "42866161",
+   "42207362",
+   "41990742"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|R5P": {
+  "n": 10,
+  "pmids": [
+   "24783860",
+   "23850830",
+   "20707314"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|G6P": {
+  "n": 301,
+  "pmids": [
+   "42354115",
+   "41977332",
+   "41892358"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|SUC": {
+  "n": 62,
+  "pmids": [
+   "42248471",
+   "41977332",
+   "41193518"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|TRE": {
+  "n": 15,
+  "pmids": [
+   "42477958",
+   "41977332",
+   "39953899"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|SIN": {
+  "n": 62,
+  "pmids": [
+   "39506655",
+   "39236916",
+   "39156889"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PFKP|TAU": {
+  "n": 1,
+  "pmids": [
+   "3082336"
+  ],
+  "term": "(\"phosphofructokinase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|3PG": {
+  "n": 6,
+  "pmids": [
+   "36676959",
+   "29483187",
+   "23153533"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|G3P": {
+  "n": 5,
+  "pmids": [
+   "33560827",
+   "26701302",
+   "12196534"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|PEP": {
+  "n": 12,
+  "pmids": [
+   "30995804",
+   "27520031",
+   "26878126"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|R5P": {
+  "n": 11,
+  "pmids": [
+   "36688653",
+   "30824700",
+   "30098336"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|G6P": {
+  "n": 290,
+  "pmids": [
+   "42650878",
+   "42486328",
+   "42287420"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|SUC": {
+  "n": 6,
+  "pmids": [
+   "41086510",
+   "36512662",
+   "32470978"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|TRE": {
+  "n": 3,
+  "pmids": [
+   "42287420",
+   "34000687",
+   "3980434"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|SIN": {
+  "n": 8,
+  "pmids": [
+   "41242060",
+   "36015405",
+   "27520031"
+  ],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PGD|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"6-phosphogluconate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|3PG": {
+  "n": 205,
+  "pmids": [
+   "42724467",
+   "42697478",
+   "42516036"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|PEP": {
+  "n": 5,
+  "pmids": [
+   "35707761",
+   "33335245",
+   "32276114"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|R5P": {
+  "n": 2,
+  "pmids": [
+   "38742477",
+   "12542086"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|G6P": {
+  "n": 3,
+  "pmids": [
+   "41950920",
+   "38742477",
+   "27358718"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|SUC": {
+  "n": 2,
+  "pmids": [
+   "32276114",
+   "30515188"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|SIN": {
+  "n": 4,
+  "pmids": [
+   "27358718",
+   "6271379",
+   "4329715"
+  ],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PHGDH|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"phosphoglycerate dehydrogenase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|3PG": {
+  "n": 43,
+  "pmids": [
+   "41136411",
+   "37284309",
+   "34361637"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|G3P": {
+  "n": 26,
+  "pmids": [
+   "40876128",
+   "38680096",
+   "35938391"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|PEP": {
+  "n": 848,
+  "pmids": [
+   "42799795",
+   "42697280",
+   "42678604"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|R5P": {
+  "n": 35,
+  "pmids": [
+   "38758412",
+   "33973628",
+   "33679651"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|G6P": {
+  "n": 289,
+  "pmids": [
+   "42356564",
+   "42354115",
+   "42330965"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|SUC": {
+  "n": 76,
+  "pmids": [
+   "42460009",
+   "41039811",
+   "39447271"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|TRE": {
+  "n": 20,
+  "pmids": [
+   "42477958",
+   "40876128",
+   "38466721"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|SIN": {
+  "n": 102,
+  "pmids": [
+   "42871472",
+   "42639356",
+   "42358142"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKLR|TAU": {
+  "n": 7,
+  "pmids": [
+   "39373065",
+   "37492950",
+   "35515331"
+  ],
+  "term": "(\"pyruvate kinase\"[tiab] OR \"PKLR\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|3PG": {
+  "n": 43,
+  "pmids": [
+   "41136411",
+   "37284309",
+   "34361637"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|G3P": {
+  "n": 26,
+  "pmids": [
+   "40876128",
+   "38680096",
+   "35938391"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|PEP": {
+  "n": 848,
+  "pmids": [
+   "42799795",
+   "42697280",
+   "42678604"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|R5P": {
+  "n": 35,
+  "pmids": [
+   "38758412",
+   "33973628",
+   "33679651"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|G6P": {
+  "n": 288,
+  "pmids": [
+   "42356564",
+   "42354115",
+   "42330965"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|SUC": {
+  "n": 75,
+  "pmids": [
+   "42460009",
+   "41039811",
+   "39447271"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|TRE": {
+  "n": 20,
+  "pmids": [
+   "42477958",
+   "40876128",
+   "38466721"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|SIN": {
+  "n": 102,
+  "pmids": [
+   "42871472",
+   "42639356",
+   "42358142"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PKM|TAU": {
+  "n": 7,
+  "pmids": [
+   "39373065",
+   "37492950",
+   "35515331"
+  ],
+  "term": "(\"pyruvate kinase M2\"[tiab] OR \"pyruvate kinase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|3PG": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|PEP": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|R5P": {
+  "n": 4,
+  "pmids": [
+   "11790837",
+   "7532005",
+   "2480792"
+  ],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|G6P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|SUC": {
+  "n": 1,
+  "pmids": [
+   "447621"
+  ],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|SIN": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "PPAT|TAU": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"amidophosphoribosyltransferase\"[tiab] OR \"glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|3PG": {
+  "n": 1,
+  "pmids": [
+   "31154896"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|G3P": {
+  "n": 1,
+  "pmids": [
+   "27446128"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|PEP": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|R5P": {
+  "n": 3,
+  "pmids": [
+   "34031038",
+   "31433975",
+   "31154896"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|G6P": {
+  "n": 3,
+  "pmids": [
+   "34429771",
+   "31154896",
+   "19369702"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|SUC": {
+  "n": 4,
+  "pmids": [
+   "10716984",
+   "2447104",
+   "6184158"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|SIN": {
+  "n": 1,
+  "pmids": [
+   "15198026"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "RRM1|TAU": {
+  "n": 2,
+  "pmids": [
+   "16513177",
+   "9434100"
+  ],
+  "term": "(\"ribonucleotide reductase\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|3PG": {
+  "n": 1,
+  "pmids": [
+   "33503424"
+  ],
+  "term": "(\"SAMTOR\"[tiab]) AND \"3-phosphoglycerate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|G3P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"glycerol 3-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|PEP": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"phosphoenolpyruvate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|R5P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"ribose 5-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|G6P": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"glucose 6-phosphate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|SUC": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"sucrose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|TRE": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"trehalose\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|SIN": {
+  "n": 0,
+  "pmids": [],
+  "term": "(\"SAMTOR\"[tiab]) AND \"succinate\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ },
+ "SAMTOR|TAU": {
+  "n": 1,
+  "pmids": [
+   "40502728"
+  ],
+  "term": "(\"SAMTOR\"[tiab]) AND \"taurine\"[tiab] AND (inhibit*[tiab] OR activat*[tiab] OR allosteric[tiab] OR effector[tiab] OR substrate[tiab] OR binds[tiab] OR binding[tiab])"
+ }
+}

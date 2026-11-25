@@ -1,0 +1,833 @@
+{
+ "01": {
+  "hits": 2,
+  "per_component": {
+   "ATP": 2
+  },
+  "accession": "Q01813",
+  "gene": "PFKP",
+  "comps": [
+   "ATP",
+   "HEJ"
+  ]
+ },
+ "02": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q01813",
+  "gene": "PFKP",
+  "comps": [
+   "CIT",
+   "FLC"
+  ]
+ },
+ "03": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q01813",
+  "gene": "PFKP",
+  "comps": [
+   "FDP"
+  ]
+ },
+ "04": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q01813",
+  "gene": "PFKP",
+  "comps": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ]
+ },
+ "05": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q01813",
+  "gene": "PFKP",
+  "comps": [
+   "PEP"
+  ]
+ },
+ "06": {
+  "hits": 5,
+  "per_component": {
+   "BG6": 1,
+   "G6P": 3,
+   "M6D": 1
+  },
+  "accession": "P19367",
+  "gene": "HK1",
+  "comps": [
+   "A6P",
+   "BG6",
+   "BGP",
+   "G6P",
+   "M6D",
+   "M6P",
+   "RTG"
+  ]
+ },
+ "07": {
+  "hits": 1,
+  "per_component": {
+   "F6P": 1
+  },
+  "accession": "P35557",
+  "gene": "GCK",
+  "comps": [
+   "F6P",
+   "F6R",
+   "P6P",
+   "TA6",
+   "TG6"
+  ]
+ },
+ "08": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P35557",
+  "gene": "GCK",
+  "comps": [
+   "PKZ"
+  ]
+ },
+ "09": {
+  "hits": 35,
+  "per_component": {
+   "FBP": 35
+  },
+  "accession": "P14618",
+  "gene": "PKM",
+  "comps": [
+   "AFP",
+   "BFP",
+   "FBP"
+  ]
+ },
+ "10": {
+  "hits": 6,
+  "per_component": {
+   "SER": 6
+  },
+  "accession": "P14618",
+  "gene": "PKM",
+  "comps": [
+   "DSN",
+   "SEG",
+   "SER"
+  ]
+ },
+ "11": {
+  "hits": 1,
+  "per_component": {
+   "ALA": 1
+  },
+  "accession": "P14618",
+  "gene": "PKM",
+  "comps": [
+   "ALA",
+   "DAL"
+  ]
+ },
+ "12": {
+  "hits": 3,
+  "per_component": {
+   "PHE": 3
+  },
+  "accession": "P14618",
+  "gene": "PKM",
+  "comps": [
+   "DPN",
+   "PHE"
+  ]
+ },
+ "13": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P14618",
+  "gene": "PKM",
+  "comps": [
+   "OK8",
+   "SSS"
+  ]
+ },
+ "14": {
+  "hits": 13,
+  "per_component": {
+   "AFP": 1,
+   "FBP": 12
+  },
+  "accession": "P30613",
+  "gene": "PKLR",
+  "comps": [
+   "AFP",
+   "BFP",
+   "FBP"
+  ]
+ },
+ "15": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P30613",
+  "gene": "PKLR",
+  "comps": [
+   "ALA",
+   "DAL"
+  ]
+ },
+ "16": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P08559",
+  "gene": "PDHA1",
+  "comps": [
+   "ACO"
+  ]
+ },
+ "17": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P08559",
+  "gene": "PDHA1",
+  "comps": [
+   "NAI"
+  ]
+ },
+ "18": {
+  "hits": 6,
+  "per_component": {
+   "AMP": 6
+  },
+  "accession": "P09467",
+  "gene": "FBP1",
+  "comps": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ]
+ },
+ "19": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P09467",
+  "gene": "FBP1",
+  "comps": [
+   "FDP"
+  ]
+ },
+ "20": {
+  "hits": 3,
+  "per_component": {
+   "ACO": 3
+  },
+  "accession": "P11498",
+  "gene": "PC",
+  "comps": [
+   "ACO"
+  ]
+ },
+ "21": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P11498",
+  "gene": "PC",
+  "comps": [
+   "ASI",
+   "ASP",
+   "DAS",
+   "DSP",
+   "IAS"
+  ]
+ },
+ "22": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "O75390",
+  "gene": "CS",
+  "comps": [
+   "NAI"
+  ]
+ },
+ "23": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "O75390",
+  "gene": "CS",
+  "comps": [
+   "SCA"
+  ]
+ },
+ "24": {
+  "hits": 4,
+  "per_component": {
+   "ADP": 4
+  },
+  "accession": "P50213",
+  "gene": "IDH3A",
+  "comps": [
+   "ADP",
+   "LA8"
+  ]
+ },
+ "25": {
+  "hits": 2,
+  "per_component": {
+   "ATP": 2
+  },
+  "accession": "P50213",
+  "gene": "IDH3A",
+  "comps": [
+   "ATP",
+   "HEJ"
+  ]
+ },
+ "26": {
+  "hits": 2,
+  "per_component": {
+   "NAI": 2
+  },
+  "accession": "P50213",
+  "gene": "IDH3A",
+  "comps": [
+   "NAI"
+  ]
+ },
+ "27": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q02218",
+  "gene": "OGDH",
+  "comps": [
+   "SCA"
+  ]
+ },
+ "28": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q02218",
+  "gene": "OGDH",
+  "comps": [
+   "NAI"
+  ]
+ },
+ "29": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q02218",
+  "gene": "OGDH",
+  "comps": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ]
+ },
+ "30": {
+  "hits": 3,
+  "per_component": {
+   "OAA": 3
+  },
+  "accession": "P31040",
+  "gene": "SDHA",
+  "comps": [
+   "OAA"
+  ]
+ },
+ "31": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P11413",
+  "gene": "G6PD",
+  "comps": [
+   "NDP",
+   "NDW"
+  ]
+ },
+ "32": {
+  "hits": 17,
+  "per_component": {
+   "NAP": 17
+  },
+  "accession": "P11413",
+  "gene": "G6PD",
+  "comps": [
+   "NAP"
+  ]
+ },
+ "33": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P52209",
+  "gene": "PGD",
+  "comps": [
+   "NDP",
+   "NDW"
+  ]
+ },
+ "34": {
+  "hits": 1,
+  "per_component": {
+   "AMP": 1
+  },
+  "accession": "Q06203",
+  "gene": "PPAT",
+  "comps": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ]
+ },
+ "35": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q06203",
+  "gene": "PPAT",
+  "comps": [
+   "0G",
+   "5GP",
+   "8XG",
+   "CPG",
+   "G",
+   "G25",
+   "GAO",
+   "LG"
+  ]
+ },
+ "36": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q06203",
+  "gene": "PPAT",
+  "comps": [
+   "ADP",
+   "LA8"
+  ]
+ },
+ "37": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q06203",
+  "gene": "PPAT",
+  "comps": [
+   "PRP"
+  ]
+ },
+ "38": {
+  "hits": 4,
+  "per_component": {
+   "ADP": 4
+  },
+  "accession": "P60891",
+  "gene": "PRPS1",
+  "comps": [
+   "ADP",
+   "LA8"
+  ]
+ },
+ "39": {
+  "hits": 1,
+  "per_component": {
+   "GDP": 1
+  },
+  "accession": "P60891",
+  "gene": "PRPS1",
+  "comps": [
+   "GDP"
+  ]
+ },
+ "40": {
+  "hits": 12,
+  "per_component": {
+   "PO4": 12
+  },
+  "accession": "P60891",
+  "gene": "PRPS1",
+  "comps": [
+   "2HP",
+   "IPS",
+   "PI",
+   "PO4"
+  ]
+ },
+ "41": {
+  "hits": 9,
+  "per_component": {
+   "GTP": 9
+  },
+  "accession": "P12268",
+  "gene": "IMPDH2",
+  "comps": [
+   "GTP"
+  ]
+ },
+ "42": {
+  "hits": 11,
+  "per_component": {
+   "ATP": 11
+  },
+  "accession": "P12268",
+  "gene": "IMPDH2",
+  "comps": [
+   "ATP",
+   "HEJ"
+  ]
+ },
+ "43": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P30520",
+  "gene": "ADSS2",
+  "comps": [
+   "GTP"
+  ]
+ },
+ "44": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P27708",
+  "gene": "CAD",
+  "comps": [
+   "UTP"
+  ]
+ },
+ "45": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P27708",
+  "gene": "CAD",
+  "comps": [
+   "PRP"
+  ]
+ },
+ "46": {
+  "hits": 2,
+  "per_component": {
+   "CTP": 2
+  },
+  "accession": "Q9NRF8",
+  "gene": "CTPS2",
+  "comps": [
+   "CTP",
+   "HF4"
+  ]
+ },
+ "47": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q9NRF8",
+  "gene": "CTPS2",
+  "comps": [
+   "GTP"
+  ]
+ },
+ "48": {
+  "hits": 3,
+  "per_component": {
+   "DTP": 3
+  },
+  "accession": "P23921",
+  "gene": "RRM1",
+  "comps": [
+   "2OA",
+   "DTP"
+  ]
+ },
+ "49": {
+  "hits": 1,
+  "per_component": {
+   "ATP": 1
+  },
+  "accession": "P23921",
+  "gene": "RRM1",
+  "comps": [
+   "ATP",
+   "HEJ"
+  ]
+ },
+ "50": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P23921",
+  "gene": "RRM1",
+  "comps": [
+   "DGT"
+  ]
+ },
+ "51": {
+  "hits": 9,
+  "per_component": {
+   "TTP": 9
+  },
+  "accession": "P23921",
+  "gene": "RRM1",
+  "comps": [
+   "TTP",
+   "XRF"
+  ]
+ },
+ "52": {
+  "hits": 3,
+  "per_component": {
+   "TTP": 3
+  },
+  "accession": "P04183",
+  "gene": "TK1",
+  "comps": [
+   "TTP",
+   "XRF"
+  ]
+ },
+ "53": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P27707",
+  "gene": "DCK",
+  "comps": [
+   "1S0",
+   "DCP"
+  ]
+ },
+ "54": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "O43175",
+  "gene": "PHGDH",
+  "comps": [
+   "DSN",
+   "SEG",
+   "SER"
+  ]
+ },
+ "55": {
+  "hits": 5,
+  "per_component": {
+   "PO4": 5
+  },
+  "accession": "O94925",
+  "gene": "GLS",
+  "comps": [
+   "2HP",
+   "IPS",
+   "PI",
+   "PO4"
+  ]
+ },
+ "56": {
+  "hits": 4,
+  "per_component": {
+   "GLU": 4
+  },
+  "accession": "O94925",
+  "gene": "GLS",
+  "comps": [
+   "DGL",
+   "FGA",
+   "GGL",
+   "GLU"
+  ]
+ },
+ "57": {
+  "hits": 12,
+  "per_component": {
+   "GTP": 12
+  },
+  "accession": "P00367",
+  "gene": "GLUD1",
+  "comps": [
+   "GTP"
+  ]
+ },
+ "58": {
+  "hits": 5,
+  "per_component": {
+   "ADP": 5
+  },
+  "accession": "P00367",
+  "gene": "GLUD1",
+  "comps": [
+   "ADP",
+   "LA8"
+  ]
+ },
+ "59": {
+  "hits": 1,
+  "per_component": {
+   "LEU": 1
+  },
+  "accession": "P00367",
+  "gene": "GLUD1",
+  "comps": [
+   "DLE",
+   "LEU"
+  ]
+ },
+ "60": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P00367",
+  "gene": "GLUD1",
+  "comps": [
+   "PKZ"
+  ]
+ },
+ "61": {
+  "hits": 2,
+  "per_component": {
+   "SAM": 2
+  },
+  "accession": "P35520",
+  "gene": "CBS",
+  "comps": [
+   "A1JV3",
+   "SAM"
+  ]
+ },
+ "62": {
+  "hits": 38,
+  "per_component": {
+   "SAM": 38
+  },
+  "accession": "P31153",
+  "gene": "MAT2A",
+  "comps": [
+   "A1JV3",
+   "SAM"
+  ]
+ },
+ "63": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "O00763",
+  "gene": "ACACB",
+  "comps": [
+   "CIT",
+   "FLC"
+  ]
+ },
+ "64": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "O00763",
+  "gene": "ACACB",
+  "comps": [
+   "PKZ"
+  ]
+ },
+ "65": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P50416",
+  "gene": "CPT1A",
+  "comps": [
+   "MLC"
+  ]
+ },
+ "66": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "P04035",
+  "gene": "HMGCR",
+  "comps": [
+   "LAN"
+  ]
+ },
+ "67": {
+  "hits": 1,
+  "per_component": {
+   "NLG": 1
+  },
+  "accession": "P31327",
+  "gene": "CPS1",
+  "comps": [
+   "NLG"
+  ]
+ },
+ "68": {
+  "hits": 40,
+  "per_component": {
+   "AMP": 40
+  },
+  "accession": "P54619",
+  "gene": "PRKAG1",
+  "comps": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ]
+ },
+ "69": {
+  "hits": 13,
+  "per_component": {
+   "ADP": 13
+  },
+  "accession": "P54619",
+  "gene": "PRKAG1",
+  "comps": [
+   "ADP",
+   "LA8"
+  ]
+ },
+ "70": {
+  "hits": 9,
+  "per_component": {
+   "ATP": 9
+  },
+  "accession": "P54619",
+  "gene": "PRKAG1",
+  "comps": [
+   "ATP",
+   "HEJ"
+  ]
+ },
+ "71": {
+  "hits": 3,
+  "per_component": {
+   "LEU": 3
+  },
+  "accession": "P58004",
+  "gene": "SESN2",
+  "comps": [
+   "DLE",
+   "LEU"
+  ]
+ },
+ "72": {
+  "hits": 5,
+  "per_component": {
+   "ARG": 5
+  },
+  "accession": "Q8WTX7",
+  "gene": "CASTOR1",
+  "comps": [
+   "ARG",
+   "DAR",
+   "GND"
+  ]
+ },
+ "73": {
+  "hits": 0,
+  "per_component": {},
+  "accession": "Q1RMZ1",
+  "gene": "SAMTOR",
+  "comps": [
+   "A1JV3",
+   "SAM"
+  ]
+ }
+}

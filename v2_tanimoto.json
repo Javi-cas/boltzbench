@@ -1,0 +1,1077 @@
+[
+ {
+  "n": 2,
+  "gene": "PFKP",
+  "accession": "Q01813",
+  "regulator": "citrate",
+  "anchors": [
+   "CIT"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.07,
+  "nearest": "F6P",
+  "nearest_name": "6-O-phosphono-beta-D-fructofuranose",
+  "top5": [
+   [
+    "F6P",
+    0.07
+   ],
+   [
+    "FBP",
+    0.07
+   ],
+   [
+    "PO4",
+    0.05
+   ],
+   [
+    "SO4",
+    0.05
+   ],
+   [
+    "ADP",
+    0.048
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 3,
+  "gene": "PFKP",
+  "accession": "Q01813",
+  "regulator": "fructose-2,6-bisphosphate",
+  "anchors": [
+   "FDP"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.641,
+  "nearest": "F6P",
+  "nearest_name": "6-O-phosphono-beta-D-fructofuranose",
+  "top5": [
+   [
+    "F6P",
+    0.641
+   ],
+   [
+    "FBP",
+    0.561
+   ],
+   [
+    "ADP",
+    0.254
+   ],
+   [
+    "ATP",
+    0.25
+   ],
+   [
+    "ACP",
+    0.222
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 4,
+  "gene": "PFKP",
+  "accession": "Q01813",
+  "regulator": "AMP",
+  "anchors": [
+   "AMP"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.849,
+  "nearest": "ADP",
+  "nearest_name": "ADENOSINE-5'-DIPHOSPHATE",
+  "top5": [
+   [
+    "ADP",
+    0.849
+   ],
+   [
+    "ATP",
+    0.833
+   ],
+   [
+    "ACP",
+    0.759
+   ],
+   [
+    "F6P",
+    0.322
+   ],
+   [
+    "FBP",
+    0.322
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 5,
+  "gene": "PFKP",
+  "accession": "Q01813",
+  "regulator": "phosphoenolpyruvate",
+  "anchors": [
+   "PEP"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.2,
+  "nearest": "PO4",
+  "nearest_name": "PHOSPHATE ION",
+  "top5": [
+   [
+    "PO4",
+    0.2
+   ],
+   [
+    "F6P",
+    0.195
+   ],
+   [
+    "FBP",
+    0.195
+   ],
+   [
+    "ADP",
+    0.113
+   ],
+   [
+    "ATP",
+    0.111
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 8,
+  "gene": "GCK",
+  "accession": "P35557",
+  "regulator": "palmitoyl-CoA",
+  "anchors": [
+   "PKZ"
+  ],
+  "n_ligands": 40,
+  "max_tanimoto": 0.465,
+  "nearest": "ANP",
+  "nearest_name": "PHOSPHOAMINOPHOSPHONIC ACID-ADENYLATE ESTER",
+  "top5": [
+   [
+    "AGS",
+    0.465
+   ],
+   [
+    "ANP",
+    0.465
+   ],
+   [
+    "F6P",
+    0.16
+   ],
+   [
+    "1JD",
+    0.145
+   ],
+   [
+    "0H6",
+    0.141
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 13,
+  "gene": "PKM",
+  "accession": "P14618",
+  "regulator": "SAICAR",
+  "anchors": [
+   "SSS",
+   "OK8"
+  ],
+  "n_ligands": 52,
+  "max_tanimoto": 0.452,
+  "nearest": "ADP",
+  "nearest_name": "ADENOSINE-5'-DIPHOSPHATE",
+  "top5": [
+   [
+    "ADP",
+    0.452
+   ],
+   [
+    "ATP",
+    0.446
+   ],
+   [
+    "FBP",
+    0.284
+   ],
+   [
+    "ASP",
+    0.183
+   ],
+   [
+    "GSH",
+    0.154
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 15,
+  "gene": "PKLR",
+  "accession": "P30613",
+  "regulator": "alanine",
+  "anchors": [
+   "ALA"
+  ],
+  "n_ligands": 24,
+  "max_tanimoto": 0.312,
+  "nearest": "PYR",
+  "nearest_name": "PYRUVIC ACID",
+  "top5": [
+   [
+    "PYR",
+    0.312
+   ],
+   [
+    "OXL",
+    0.188
+   ],
+   [
+    "PGA",
+    0.16
+   ],
+   [
+    "PEP",
+    0.154
+   ],
+   [
+    "EDO",
+    0.133
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 16,
+  "gene": "PDHA1",
+  "accession": "P08559",
+  "regulator": "acetyl-CoA",
+  "anchors": [
+   "ACO"
+  ],
+  "n_ligands": 7,
+  "max_tanimoto": 0.185,
+  "nearest": "A5X",
+  "nearest_name": "3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-2-{(1S)-1-hydroxy-1-[(R)-hydroxy(oxo)-lambda~5~-phosphanyl]ethyl}-5-(2-{[(S)-hydroxy(phosphonooxy)phosphoryl]oxy}ethyl)-4-methyl-1,3-thiazol-3-ium",
+  "top5": [
+   [
+    "A5X",
+    0.185
+   ],
+   [
+    "TPP",
+    0.179
+   ],
+   [
+    "GOL",
+    0.044
+   ],
+   [
+    "CL",
+    0.0
+   ],
+   [
+    "K",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 17,
+  "gene": "PDHA1",
+  "accession": "P08559",
+  "regulator": "NADH",
+  "anchors": [
+   "NAI"
+  ],
+  "n_ligands": 7,
+  "max_tanimoto": 0.178,
+  "nearest": "TPP",
+  "nearest_name": "THIAMINE DIPHOSPHATE",
+  "top5": [
+   [
+    "TPP",
+    0.178
+   ],
+   [
+    "A5X",
+    0.164
+   ],
+   [
+    "GOL",
+    0.027
+   ],
+   [
+    "CL",
+    0.0
+   ],
+   [
+    "K",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 19,
+  "gene": "FBP1",
+  "accession": "P09467",
+  "regulator": "fructose-2,6-bisphosphate",
+  "anchors": [
+   "FDP"
+  ],
+  "n_ligands": 56,
+  "max_tanimoto": 0.561,
+  "nearest": "FBP",
+  "nearest_name": "1,6-di-O-phosphono-beta-D-fructofuranose",
+  "top5": [
+   [
+    "FBP",
+    0.561
+   ],
+   [
+    "AMZ",
+    0.322
+   ],
+   [
+    "AMP",
+    0.311
+   ],
+   [
+    "GRG",
+    0.182
+   ],
+   [
+    "2T5",
+    0.123
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 21,
+  "gene": "PC",
+  "accession": "P11498",
+  "regulator": "aspartate",
+  "anchors": [
+   "ASP"
+  ],
+  "n_ligands": 8,
+  "max_tanimoto": 0.19,
+  "nearest": "PYR",
+  "nearest_name": "PYRUVIC ACID",
+  "top5": [
+   [
+    "PYR",
+    0.19
+   ],
+   [
+    "BTN",
+    0.136
+   ],
+   [
+    "ATP",
+    0.079
+   ],
+   [
+    "ANP",
+    0.075
+   ],
+   [
+    "COA",
+    0.066
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 22,
+  "gene": "CS",
+  "accession": "O75390",
+  "regulator": "NADH",
+  "anchors": [
+   "NAI"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.465,
+  "nearest": "COA",
+  "nearest_name": "COENZYME A",
+  "top5": [
+   [
+    "COA",
+    0.465
+   ],
+   [
+    "ACO",
+    0.443
+   ],
+   [
+    "CYS",
+    0.092
+   ],
+   [
+    "OAA",
+    0.066
+   ],
+   [
+    "CIT",
+    0.051
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 23,
+  "gene": "CS",
+  "accession": "O75390",
+  "regulator": "succinyl-CoA",
+  "anchors": [
+   "SCA"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.872,
+  "nearest": "ACO",
+  "nearest_name": "ACETYL COENZYME *A",
+  "top5": [
+   [
+    "ACO",
+    0.872
+   ],
+   [
+    "COA",
+    0.819
+   ],
+   [
+    "OAA",
+    0.083
+   ],
+   [
+    "CYS",
+    0.082
+   ],
+   [
+    "CIT",
+    0.071
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 27,
+  "gene": "OGDH",
+  "accession": "Q02218",
+  "regulator": "succinyl-CoA",
+  "anchors": [
+   "SCA"
+  ],
+  "n_ligands": 4,
+  "max_tanimoto": 0.183,
+  "nearest": "8EL",
+  "nearest_name": "2-[3-[(4-azanyl-2-methyl-pyrimidin-5-yl)methyl]-4-methyl-2H-1,3-thiazol-5-yl]ethyl phosphono hydrogen phosphate",
+  "top5": [
+   [
+    "8EL",
+    0.183
+   ],
+   [
+    "TPP",
+    0.174
+   ],
+   [
+    "CA",
+    0.0
+   ],
+   [
+    "MG",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 28,
+  "gene": "OGDH",
+  "accession": "Q02218",
+  "regulator": "NADH",
+  "anchors": [
+   "NAI"
+  ],
+  "n_ligands": 4,
+  "max_tanimoto": 0.202,
+  "nearest": "8EL",
+  "nearest_name": "2-[3-[(4-azanyl-2-methyl-pyrimidin-5-yl)methyl]-4-methyl-2H-1,3-thiazol-5-yl]ethyl phosphono hydrogen phosphate",
+  "top5": [
+   [
+    "8EL",
+    0.202
+   ],
+   [
+    "TPP",
+    0.178
+   ],
+   [
+    "CA",
+    0.0
+   ],
+   [
+    "MG",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 29,
+  "gene": "OGDH",
+  "accession": "Q02218",
+  "regulator": "AMP",
+  "anchors": [
+   "AMP"
+  ],
+  "n_ligands": 4,
+  "max_tanimoto": 0.207,
+  "nearest": "8EL",
+  "nearest_name": "2-[3-[(4-azanyl-2-methyl-pyrimidin-5-yl)methyl]-4-methyl-2H-1,3-thiazol-5-yl]ethyl phosphono hydrogen phosphate",
+  "top5": [
+   [
+    "8EL",
+    0.207
+   ],
+   [
+    "TPP",
+    0.193
+   ],
+   [
+    "CA",
+    0.0
+   ],
+   [
+    "MG",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 31,
+  "gene": "G6PD",
+  "accession": "P11413",
+  "regulator": "NADPH",
+  "anchors": [
+   "NDP"
+  ],
+  "n_ligands": 6,
+  "max_tanimoto": 0.582,
+  "nearest": "NAP",
+  "nearest_name": "NADP NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+  "top5": [
+   [
+    "NAP",
+    0.582
+   ],
+   [
+    "BG6",
+    0.235
+   ],
+   [
+    "GOA",
+    0.051
+   ],
+   [
+    "PO4",
+    0.039
+   ],
+   [
+    "GOL",
+    0.025
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 33,
+  "gene": "PGD",
+  "accession": "P52209",
+  "regulator": "NADPH",
+  "anchors": [
+   "NDP"
+  ],
+  "n_ligands": 6,
+  "max_tanimoto": 0.582,
+  "nearest": "NAP",
+  "nearest_name": "NADP NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+  "top5": [
+   [
+    "NAP",
+    0.582
+   ],
+   [
+    "8HS",
+    0.161
+   ],
+   [
+    "3PG",
+    0.131
+   ],
+   [
+    "MES",
+    0.043
+   ],
+   [
+    "SO4",
+    0.013
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 35,
+  "gene": "PPAT",
+  "accession": "Q06203",
+  "regulator": "GMP",
+  "anchors": [
+   "5GP"
+  ],
+  "n_ligands": 5,
+  "max_tanimoto": 0.661,
+  "nearest": "AMP",
+  "nearest_name": "ADENOSINE MONOPHOSPHATE",
+  "top5": [
+   [
+    "AMP",
+    0.661
+   ],
+   [
+    "A1CQ3",
+    0.578
+   ],
+   [
+    "A1CQ4",
+    0.521
+   ],
+   [
+    "MG",
+    0.0
+   ],
+   [
+    "SF4",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 36,
+  "gene": "PPAT",
+  "accession": "Q06203",
+  "regulator": "ADP",
+  "anchors": [
+   "ADP"
+  ],
+  "n_ligands": 5,
+  "max_tanimoto": 0.849,
+  "nearest": "AMP",
+  "nearest_name": "ADENOSINE MONOPHOSPHATE",
+  "top5": [
+   [
+    "AMP",
+    0.849
+   ],
+   [
+    "A1CQ3",
+    0.629
+   ],
+   [
+    "A1CQ4",
+    0.565
+   ],
+   [
+    "MG",
+    0.0
+   ],
+   [
+    "SF4",
+    0.0
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 37,
+  "gene": "PPAT",
+  "accession": "Q06203",
+  "regulator": "PRPP",
+  "anchors": [
+   "PRP"
+  ],
+  "n_ligands": 5,
+  "max_tanimoto": 0.386,
+  "nearest": "AMP",
+  "nearest_name": "ADENOSINE MONOPHOSPHATE",
+  "top5": [
+   [
+    "AMP",
+    0.386
+   ],
+   [
+    "A1CQ3",
+    0.367
+   ],
+   [
+    "A1CQ4",
+    0.328
+   ],
+   [
+    "MG",
+    0.0
+   ],
+   [
+    "SF4",
+    0.0
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 43,
+  "gene": "ADSS2",
+  "accession": "P30520",
+  "regulator": "GTP",
+  "anchors": [
+   "GTP"
+  ],
+  "n_ligands": 1,
+  "max_tanimoto": 0.982,
+  "nearest": "GDP",
+  "nearest_name": "GUANOSINE-5'-DIPHOSPHATE",
+  "top5": [
+   [
+    "GDP",
+    0.982
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 47,
+  "gene": "CTPS2",
+  "accession": "Q9NRF8",
+  "regulator": "GTP",
+  "anchors": [
+   "GTP"
+  ],
+  "n_ligands": 9,
+  "max_tanimoto": 0.688,
+  "nearest": "ATP",
+  "nearest_name": "ADENOSINE-5'-TRIPHOSPHATE",
+  "top5": [
+   [
+    "ATP",
+    0.688
+   ],
+   [
+    "ADP",
+    0.672
+   ],
+   [
+    "CTP",
+    0.606
+   ],
+   [
+    "UTP",
+    0.576
+   ],
+   [
+    "ZG4",
+    0.132
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 50,
+  "gene": "RRM1",
+  "accession": "P23921",
+  "regulator": "dGTP",
+  "anchors": [
+   "DGT"
+  ],
+  "n_ligands": 14,
+  "max_tanimoto": 0.723,
+  "nearest": "GDP",
+  "nearest_name": "GUANOSINE-5'-DIPHOSPHATE",
+  "top5": [
+   [
+    "GDP",
+    0.723
+   ],
+   [
+    "DTP",
+    0.692
+   ],
+   [
+    "TTP",
+    0.588
+   ],
+   [
+    "ATP",
+    0.493
+   ],
+   [
+    "CDP",
+    0.419
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 53,
+  "gene": "DCK",
+  "accession": "P27707",
+  "regulator": "dCTP",
+  "anchors": [
+   "DCP"
+  ],
+  "n_ligands": 54,
+  "max_tanimoto": 0.811,
+  "nearest": "DCM",
+  "nearest_name": "2'-DEOXYCYTIDINE-5'-MONOPHOSPHATE",
+  "top5": [
+   [
+    "DCM",
+    0.811
+   ],
+   [
+    "DCZ",
+    0.636
+   ],
+   [
+    "LDC",
+    0.636
+   ],
+   [
+    "UMP",
+    0.516
+   ],
+   [
+    "D5M",
+    0.478
+   ]
+  ],
+  "subset": false
+ },
+ {
+  "n": 54,
+  "gene": "PHGDH",
+  "accession": "O43175",
+  "regulator": "serine",
+  "anchors": [
+   "SER"
+  ],
+  "n_ligands": 27,
+  "max_tanimoto": 0.316,
+  "nearest": "TLA",
+  "nearest_name": "L(+)-TARTARIC ACID",
+  "top5": [
+   [
+    "TLA",
+    0.316
+   ],
+   [
+    "MLT",
+    0.304
+   ],
+   [
+    "3PG",
+    0.241
+   ],
+   [
+    "EDO",
+    0.176
+   ],
+   [
+    "1PE",
+    0.13
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 60,
+  "gene": "GLUD1",
+  "accession": "P00367",
+  "regulator": "palmitoyl-CoA",
+  "anchors": [
+   "PKZ"
+  ],
+  "n_ligands": 20,
+  "max_tanimoto": 0.474,
+  "nearest": "ADP",
+  "nearest_name": "ADENOSINE-5'-DIPHOSPHATE",
+  "top5": [
+   [
+    "ADP",
+    0.474
+   ],
+   [
+    "NDP",
+    0.443
+   ],
+   [
+    "NAI",
+    0.42
+   ],
+   [
+    "NAD",
+    0.38
+   ],
+   [
+    "GTP",
+    0.358
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 63,
+  "gene": "ACACB",
+  "accession": "O00763",
+  "regulator": "citrate",
+  "anchors": [
+   "CIT"
+  ],
+  "n_ligands": 4,
+  "max_tanimoto": 0.057,
+  "nearest": "6U3",
+  "nearest_name": "2-[1-[(2~{R})-2-(2-methoxyphenyl)-2-(oxan-4-yloxy)ethyl]-5-methyl-6-(1,3-oxazol-2-yl)-2,4-bis(oxidanylidene)thieno[2,3-d]pyrimidin-3-yl]-2-methyl-propanamide",
+  "top5": [
+   [
+    "6U3",
+    0.057
+   ],
+   [
+    "0EU",
+    0.051
+   ],
+   [
+    "RCP",
+    0.049
+   ],
+   [
+    "S1A",
+    0.043
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 64,
+  "gene": "ACACB",
+  "accession": "O00763",
+  "regulator": "palmitoyl-CoA",
+  "anchors": [
+   "PKZ"
+  ],
+  "n_ligands": 4,
+  "max_tanimoto": 0.119,
+  "nearest": "6U3",
+  "nearest_name": "2-[1-[(2~{R})-2-(2-methoxyphenyl)-2-(oxan-4-yloxy)ethyl]-5-methyl-6-(1,3-oxazol-2-yl)-2,4-bis(oxidanylidene)thieno[2,3-d]pyrimidin-3-yl]-2-methyl-propanamide",
+  "top5": [
+   [
+    "6U3",
+    0.119
+   ],
+   [
+    "0EU",
+    0.088
+   ],
+   [
+    "S1A",
+    0.079
+   ],
+   [
+    "RCP",
+    0.068
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 65,
+  "gene": "CPT1A",
+  "accession": "P50416",
+  "regulator": "malonyl-CoA",
+  "anchors": [
+   "MLC"
+  ],
+  "n_ligands": 0,
+  "max_tanimoto": 0.0,
+  "nearest": null,
+  "nearest_name": null,
+  "top5": [],
+  "subset": true
+ },
+ {
+  "n": 66,
+  "gene": "HMGCR",
+  "accession": "P04035",
+  "regulator": "sterol / lanosterol",
+  "anchors": [
+   "LAN"
+  ],
+  "n_ligands": 27,
+  "max_tanimoto": 0.183,
+  "nearest": "Y01",
+  "nearest_name": "CHOLESTEROL HEMISUCCINATE",
+  "top5": [
+   [
+    "Y01",
+    0.183
+   ],
+   [
+    "114",
+    0.116
+   ],
+   [
+    "HR2",
+    0.11
+   ],
+   [
+    "7HI",
+    0.102
+   ],
+   [
+    "AJP",
+    0.099
+   ]
+  ],
+  "subset": true
+ },
+ {
+  "n": 73,
+  "gene": "SAMTOR",
+  "accession": "Q1RMZ1",
+  "regulator": "S-adenosylmethionine",
+  "anchors": [
+   "SAM"
+  ],
+  "n_ligands": 0,
+  "max_tanimoto": 0.0,
+  "nearest": null,
+  "nearest_name": null,
+  "top5": [],
+  "subset": true
+ }
+]

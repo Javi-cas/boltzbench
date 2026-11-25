@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv*/
+.DS_Store
+.ipynb_checkpoints/
+runs/
+runs_*/
+_to_delete/
+_viewer/
+logs/
+v2_prep_raw/
+v2_selection_raw/
+*.h5ad
+manuscript.md

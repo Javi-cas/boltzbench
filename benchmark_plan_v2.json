@@ -1,0 +1,457 @@
+{
+ "ACACB": {
+  "uniprot": "O00763",
+  "length": 2458,
+  "regulators": [
+   "CIT",
+   "PKZ"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   63,
+   64
+  ]
+ },
+ "ADSS2": {
+  "uniprot": "P30520",
+  "length": 456,
+  "regulators": [
+   "GTP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   43
+  ]
+ },
+ "CPT1A": {
+  "uniprot": "P50416",
+  "length": 773,
+  "regulators": [
+   "MLC"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   65
+  ]
+ },
+ "CS": {
+  "uniprot": "O75390",
+  "length": 466,
+  "regulators": [
+   "NAI",
+   "SCA"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   22,
+   23
+  ]
+ },
+ "CTPS2": {
+  "uniprot": "Q9NRF8",
+  "length": 586,
+  "regulators": [
+   "GTP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   47
+  ]
+ },
+ "DCK": {
+  "uniprot": "P27707",
+  "length": 260,
+  "regulators": [
+   "DCP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   53
+  ]
+ },
+ "FBP1": {
+  "uniprot": "P09467",
+  "length": 338,
+  "regulators": [
+   "FDP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   19
+  ]
+ },
+ "G6PD": {
+  "uniprot": "P11413",
+  "length": 515,
+  "regulators": [
+   "NDP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "G6P"
+  ],
+  "pairs": [
+   31
+  ]
+ },
+ "GCK": {
+  "uniprot": "P35557",
+  "length": 465,
+  "regulators": [
+   "PKZ"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "G6P"
+  ],
+  "pairs": [
+   8
+  ]
+ },
+ "GLUD1": {
+  "uniprot": "P00367",
+  "length": 558,
+  "regulators": [
+   "PKZ"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   60
+  ]
+ },
+ "HMGCR": {
+  "uniprot": "P04035",
+  "length": 888,
+  "regulators": [
+   "LAN"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   66
+  ]
+ },
+ "OGDH": {
+  "uniprot": "Q02218",
+  "length": 1023,
+  "regulators": [
+   "SCA",
+   "NAI",
+   "AMP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   27,
+   28,
+   29
+  ]
+ },
+ "PC": {
+  "uniprot": "P11498",
+  "length": 1178,
+  "regulators": [
+   "ASP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   21
+  ]
+ },
+ "PDHA1": {
+  "uniprot": "P08559",
+  "length": 390,
+  "regulators": [
+   "ACO",
+   "NAI"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   16,
+   17
+  ]
+ },
+ "PFKP": {
+  "uniprot": "Q01813",
+  "length": 784,
+  "regulators": [
+   "CIT",
+   "FDP",
+   "AMP",
+   "PEP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "PEP"
+  ],
+  "pairs": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ "PGD": {
+  "uniprot": "P52209",
+  "length": 483,
+  "regulators": [
+   "NDP"
+  ],
+  "decoys": [
+   "G3P",
+   "PEP",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "3PG",
+   "R5P"
+  ],
+  "pairs": [
+   33
+  ]
+ },
+ "PHGDH": {
+  "uniprot": "O43175",
+  "length": 533,
+  "regulators": [
+   "SER"
+  ],
+  "decoys": [
+   "G3P",
+   "PEP",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "3PG"
+  ],
+  "pairs": [
+   54
+  ]
+ },
+ "PKLR": {
+  "uniprot": "P30613",
+  "length": 574,
+  "regulators": [
+   "ALA"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "PEP"
+  ],
+  "pairs": [
+   15
+  ]
+ },
+ "PKM": {
+  "uniprot": "P14618",
+  "length": 531,
+  "regulators": [
+   "SSS"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "PEP"
+  ],
+  "pairs": [
+   13
+  ]
+ },
+ "PPAT": {
+  "uniprot": "Q06203",
+  "length": 517,
+  "regulators": [
+   "5GP",
+   "ADP",
+   "PRP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "R5P"
+  ],
+  "pairs": [
+   35,
+   36,
+   37
+  ]
+ },
+ "RRM1": {
+  "uniprot": "P23921",
+  "length": 792,
+  "regulators": [
+   "DGT"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   50
+  ]
+ },
+ "SAMTOR": {
+  "uniprot": "Q1RMZ1",
+  "length": 405,
+  "regulators": [
+   "SAM"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [],
+  "pairs": [
+   73
+  ]
+ }
+}

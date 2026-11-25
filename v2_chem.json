@@ -1,0 +1,949 @@
+{
+ "ADP": {
+  "name": "ADP",
+  "anchors": [
+   {
+    "ccd": "ADP",
+    "ccd_name": "ADENOSINE-5'-DIPHOSPHATE",
+    "formula": "C10 H15 N5 O10 P2",
+    "type": "non-polymer",
+    "inchikey": "XTWYTFMLZFPYCI-KQYNXXCUSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "ADP",
+   "LA8"
+  ],
+  "chembl_ids": [
+   "CHEMBL14830"
+  ],
+  "skeletons": [
+   "XTWYTFMLZFPYCI"
+  ]
+ },
+ "AMP": {
+  "name": "AMP",
+  "anchors": [
+   {
+    "ccd": "AMP",
+    "ccd_name": "ADENOSINE MONOPHOSPHATE",
+    "formula": "C10 H14 N5 O7 P",
+    "type": "non-polymer",
+    "inchikey": "UDMBCSSLTHHNCD-KQYNXXCUSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "0A",
+   "8XA",
+   "A",
+   "A5O",
+   "AMP",
+   "AP7"
+  ],
+  "chembl_ids": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "skeletons": [
+   "UDMBCSSLTHHNCD"
+  ]
+ },
+ "ATP": {
+  "name": "ATP",
+  "anchors": [
+   {
+    "ccd": "ATP",
+    "ccd_name": "ADENOSINE-5'-TRIPHOSPHATE",
+    "formula": "C10 H16 N5 O13 P3",
+    "type": "non-polymer",
+    "inchikey": "ZKHQWZAMYRWXGA-KQYNXXCUSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "ATP",
+   "HEJ"
+  ],
+  "chembl_ids": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "skeletons": [
+   "ZKHQWZAMYRWXGA"
+  ]
+ },
+ "CTP": {
+  "name": "CTP",
+  "anchors": [
+   {
+    "ccd": "CTP",
+    "ccd_name": "CYTIDINE-5'-TRIPHOSPHATE",
+    "formula": "C9 H16 N3 O14 P3",
+    "type": "non-polymer",
+    "inchikey": "PCDQPRRSZKQHHS-XVFCMESISA-N"
+   }
+  ],
+  "pdb_ids": [
+   "CTP",
+   "HF4"
+  ],
+  "chembl_ids": [
+   "CHEMBL223533",
+   "CHEMBL3417290"
+  ],
+  "skeletons": [
+   "PCDQPRRSZKQHHS"
+  ]
+ },
+ "GDP": {
+  "name": "GDP",
+  "anchors": [
+   {
+    "ccd": "GDP",
+    "ccd_name": "GUANOSINE-5'-DIPHOSPHATE",
+    "formula": "C10 H15 N5 O11 P2",
+    "type": "RNA linking",
+    "inchikey": "QGWNDRXFNXRZMB-UUOKFMHZSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "GDP"
+  ],
+  "chembl_ids": [
+   "CHEMBL384759",
+   "CHEMBL574200"
+  ],
+  "skeletons": [
+   "QGWNDRXFNXRZMB"
+  ]
+ },
+ "GMP": {
+  "name": "GMP",
+  "anchors": [
+   {
+    "ccd": "5GP",
+    "ccd_name": "GUANOSINE-5'-MONOPHOSPHATE",
+    "formula": "C10 H14 N5 O8 P",
+    "type": "non-polymer",
+    "inchikey": "RQFCJASXJCIDSX-UUOKFMHZSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "0G",
+   "5GP",
+   "8XG",
+   "CPG",
+   "G",
+   "G25",
+   "GAO",
+   "LG"
+  ],
+  "chembl_ids": [
+   "CHEMBL1229579",
+   "CHEMBL1242996",
+   "CHEMBL2364560",
+   "CHEMBL283807",
+   "CHEMBL6015353"
+  ],
+  "skeletons": [
+   "RQFCJASXJCIDSX"
+  ]
+ },
+ "GTP": {
+  "name": "GTP",
+  "anchors": [
+   {
+    "ccd": "GTP",
+    "ccd_name": "GUANOSINE-5'-TRIPHOSPHATE",
+    "formula": "C10 H16 N5 O14 P3",
+    "type": "non-polymer",
+    "inchikey": "XKMLYUALXHKNFT-UUOKFMHZSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "GTP"
+  ],
+  "chembl_ids": [
+   "CHEMBL1201369",
+   "CHEMBL1233147",
+   "CHEMBL2311196",
+   "CHEMBL6041915"
+  ],
+  "skeletons": [
+   "XKMLYUALXHKNFT"
+  ]
+ },
+ "N-acetylglutamate": {
+  "name": "N-acetylglutamate",
+  "anchors": [
+   {
+    "ccd": "NLG",
+    "ccd_name": "N-ACETYL-L-GLUTAMATE",
+    "formula": "C7 H11 N O5",
+    "type": "non-polymer",
+    "inchikey": "RFMMMVDNIPUKGG-YFKPBYRVSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "NLG"
+  ],
+  "chembl_ids": [
+   "CHEMBL1234751",
+   "CHEMBL2142890"
+  ],
+  "skeletons": [
+   "RFMMMVDNIPUKGG"
+  ]
+ },
+ "NADH": {
+  "name": "NADH",
+  "anchors": [
+   {
+    "ccd": "NAI",
+    "ccd_name": "1,4-DIHYDRONICOTINAMIDE ADENINE DINUCLEOTIDE",
+    "formula": "C21 H29 N7 O14 P2",
+    "type": "non-polymer",
+    "inchikey": "BOPGDPNILDQYTO-NNYOXOHSSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "NAI"
+  ],
+  "chembl_ids": [
+   "CHEMBL1161866",
+   "CHEMBL1234616"
+  ],
+  "skeletons": [
+   "BOPGDPNILDQYTO"
+  ]
+ },
+ "NADP+": {
+  "name": "NADP+",
+  "anchors": [
+   {
+    "ccd": "NAP",
+    "ccd_name": "NADP NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+    "formula": "C21 H28 N7 O17 P3",
+    "type": "non-polymer",
+    "inchikey": "XJLXINKUBYWONI-NNYOXOHSSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "NAP"
+  ],
+  "chembl_ids": [
+   "CHEMBL2364573",
+   "CHEMBL295069",
+   "CHEMBL4299863",
+   "CHEMBL5079525"
+  ],
+  "skeletons": [
+   "XJLXINKUBYWONI"
+  ]
+ },
+ "NADPH": {
+  "name": "NADPH",
+  "anchors": [
+   {
+    "ccd": "NDP",
+    "ccd_name": "NADPH DIHYDRO-NICOTINAMIDE-ADENINE-DINUCLEOTIDE PHOSPHATE",
+    "formula": "C21 H30 N7 O17 P3",
+    "type": "non-polymer",
+    "inchikey": "ACFIXJIJDZMPPO-NNYOXOHSSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "NDP",
+   "NDW"
+  ],
+  "chembl_ids": [
+   "CHEMBL1594246",
+   "CHEMBL1619387",
+   "CHEMBL1623059",
+   "CHEMBL407009"
+  ],
+  "skeletons": [
+   "ACFIXJIJDZMPPO"
+  ]
+ },
+ "PRPP": {
+  "name": "PRPP",
+  "anchors": [
+   {
+    "ccd": "PRP",
+    "ccd_name": "1-O-pyrophosphono-5-O-phosphono-alpha-D-ribofuranose",
+    "formula": "C5 H13 O14 P3",
+    "type": "D-saccharide",
+    "inchikey": "PQGCEDQWHSBAJP-TXICZTDVSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "PRP"
+  ],
+  "chembl_ids": [
+   "CHEMBL1235437",
+   "CHEMBL606077"
+  ],
+  "skeletons": [
+   "PQGCEDQWHSBAJP"
+  ]
+ },
+ "S-adenosylmethionine": {
+  "name": "S-adenosylmethionine",
+  "anchors": [
+   {
+    "ccd": "SAM",
+    "ccd_name": "S-ADENOSYLMETHIONINE",
+    "formula": "C15 H22 N6 O5 S",
+    "type": "non-polymer",
+    "inchikey": "MEFKEPWMEQBLKI-FCKMPRQPSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "A1JV3",
+   "SAM"
+  ],
+  "chembl_ids": [
+   "CHEMBL1088977",
+   "CHEMBL1235831",
+   "CHEMBL2220241",
+   "CHEMBL224120",
+   "CHEMBL3560400",
+   "CHEMBL5172334"
+  ],
+  "skeletons": [
+   "MEFKEPWMEQBLKI"
+  ]
+ },
+ "SAICAR": {
+  "name": "SAICAR",
+  "anchors": [
+   {
+    "ccd": "SSS",
+    "ccd_name": "N-{[5-AMINO-1-(5-O-PHOSPHONO-BETA-D-ARABINOFURANOSYL)-1H-IMIDAZOL-4-YL]CARBONYL}-L-ASPARTIC ACID",
+    "formula": "C13 H19 N4 O12 P",
+    "type": "non-polymer",
+    "inchikey": "NAQGHJTUZRHGAC-PSYSQGJASA-N"
+   },
+   {
+    "ccd": "OK8",
+    "ccd_name": "(2~{S})-2-[[5-azanyl-1-[(2~{R},3~{R},4~{S},5~{R})-3,4-bis(oxidanyl)-5-(phosphonooxymethyl)oxolan-2-yl]imidazol-4-yl]car\nbonylamino]butanedioic acid",
+    "formula": "C13 H19 N4 O12 P",
+    "type": "non-polymer",
+    "inchikey": "NAQGHJTUZRHGAC-ZZZDFHIKSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "OK8",
+   "SSS"
+  ],
+  "chembl_ids": [],
+  "skeletons": [
+   "NAQGHJTUZRHGAC"
+  ]
+ },
+ "UTP": {
+  "name": "UTP",
+  "anchors": [
+   {
+    "ccd": "UTP",
+    "ccd_name": "URIDINE 5'-TRIPHOSPHATE",
+    "formula": "C9 H15 N2 O15 P3",
+    "type": "non-polymer",
+    "inchikey": "PGAVKCOVUIYSFO-XVFCMESISA-N"
+   }
+  ],
+  "pdb_ids": [
+   "UTP"
+  ],
+  "chembl_ids": [
+   "CHEMBL336296"
+  ],
+  "skeletons": [
+   "PGAVKCOVUIYSFO"
+  ]
+ },
+ "acetyl-CoA": {
+  "name": "acetyl-CoA",
+  "anchors": [
+   {
+    "ccd": "ACO",
+    "ccd_name": "ACETYL COENZYME *A",
+    "formula": "C23 H38 N7 O17 P3 S",
+    "type": "non-polymer",
+    "inchikey": "ZSLZBFCDCINBPY-ZSJPKINUSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "ACO"
+  ],
+  "chembl_ids": [
+   "CHEMBL1230809"
+  ],
+  "skeletons": [
+   "ZSLZBFCDCINBPY"
+  ]
+ },
+ "alanine": {
+  "name": "alanine",
+  "anchors": [
+   {
+    "ccd": "ALA",
+    "ccd_name": "ALANINE",
+    "formula": "C3 H7 N O2",
+    "type": "L-peptide linking",
+    "inchikey": "QNAYBMKLOCPYGJ-REOHCLBHSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "ALA",
+   "DAL"
+  ],
+  "chembl_ids": [
+   "CHEMBL279597",
+   "CHEMBL66693"
+  ],
+  "skeletons": [
+   "QNAYBMKLOCPYGJ"
+  ]
+ },
+ "arginine": {
+  "name": "arginine",
+  "anchors": [
+   {
+    "ccd": "ARG",
+    "ccd_name": "ARGININE",
+    "formula": "C6 H15 N4 O2",
+    "type": "L-peptide linking",
+    "inchikey": "ODKSFYDXXFIFQN-BYPYZUCNSA-O"
+   }
+  ],
+  "pdb_ids": [
+   "ARG",
+   "DAR",
+   "GND"
+  ],
+  "chembl_ids": [
+   "CHEMBL1485",
+   "CHEMBL212301"
+  ],
+  "skeletons": [
+   "ODKSFYDXXFIFQN"
+  ]
+ },
+ "aspartate": {
+  "name": "aspartate",
+  "anchors": [
+   {
+    "ccd": "ASP",
+    "ccd_name": "ASPARTIC ACID",
+    "formula": "C4 H7 N O4",
+    "type": "L-peptide linking",
+    "inchikey": "CKLJMWTZIZZHCS-REOHCLBHSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "ASI",
+   "ASP",
+   "DAS",
+   "DSP",
+   "IAS"
+  ],
+  "chembl_ids": [
+   "CHEMBL274323",
+   "CHEMBL29757"
+  ],
+  "skeletons": [
+   "CKLJMWTZIZZHCS"
+  ]
+ },
+ "citrate": {
+  "name": "citrate",
+  "anchors": [
+   {
+    "ccd": "CIT",
+    "ccd_name": "CITRIC ACID",
+    "formula": "C6 H8 O7",
+    "type": "non-polymer",
+    "inchikey": "KRKNYBCHXYNGOX-UHFFFAOYSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "CIT",
+   "FLC"
+  ],
+  "chembl_ids": [
+   "CHEMBL1261"
+  ],
+  "skeletons": [
+   "KRKNYBCHXYNGOX"
+  ]
+ },
+ "dATP": {
+  "name": "dATP",
+  "anchors": [
+   {
+    "ccd": "DTP",
+    "ccd_name": "2'-DEOXYADENOSINE 5'-TRIPHOSPHATE",
+    "formula": "C10 H16 N5 O12 P3",
+    "type": "non-polymer",
+    "inchikey": "SUYVUBYJARFZHO-RRKCRQDMSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "2OA",
+   "DTP"
+  ],
+  "chembl_ids": [
+   "CHEMBL335538"
+  ],
+  "skeletons": [
+   "SUYVUBYJARFZHO"
+  ]
+ },
+ "dCTP": {
+  "name": "dCTP",
+  "anchors": [
+   {
+    "ccd": "DCP",
+    "ccd_name": "2'-DEOXYCYTIDINE-5'-TRIPHOSPHATE",
+    "formula": "C9 H16 N3 O13 P3",
+    "type": "non-polymer",
+    "inchikey": "RGWHQCVHVJXOKC-SHYZEUOFSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "1S0",
+   "DCP"
+  ],
+  "chembl_ids": [
+   "CHEMBL560403"
+  ],
+  "skeletons": [
+   "RGWHQCVHVJXOKC"
+  ]
+ },
+ "dGTP": {
+  "name": "dGTP",
+  "anchors": [
+   {
+    "ccd": "DGT",
+    "ccd_name": "2'-DEOXYGUANOSINE-5'-TRIPHOSPHATE",
+    "formula": "C10 H16 N5 O13 P3",
+    "type": "non-polymer",
+    "inchikey": "HAAZLUGHYHWQIW-KVQBGUIXSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "DGT"
+  ],
+  "chembl_ids": [
+   "CHEMBL477486"
+  ],
+  "skeletons": [
+   "HAAZLUGHYHWQIW"
+  ]
+ },
+ "dTTP": {
+  "name": "dTTP",
+  "anchors": [
+   {
+    "ccd": "TTP",
+    "ccd_name": "THYMIDINE-5'-TRIPHOSPHATE",
+    "formula": "C10 H17 N2 O14 P3",
+    "type": "non-polymer",
+    "inchikey": "NHVNXKFIZYSCEB-XLPZGREQSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "TTP",
+   "XRF"
+  ],
+  "chembl_ids": [
+   "CHEMBL1674",
+   "CHEMBL363559"
+  ],
+  "skeletons": [
+   "NHVNXKFIZYSCEB"
+  ]
+ },
+ "fructose-1,6-bisphosphate": {
+  "name": "fructose-1,6-bisphosphate",
+  "anchors": [
+   {
+    "ccd": "FBP",
+    "ccd_name": "1,6-di-O-phosphono-beta-D-fructofuranose",
+    "formula": "C6 H14 O12 P2",
+    "type": "D-saccharide, beta linking",
+    "inchikey": "RNBGYGVWRKECFJ-ARQDHWQXSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "AFP",
+   "BFP",
+   "FBP"
+  ],
+  "chembl_ids": [
+   "CHEMBL1089962",
+   "CHEMBL2111113",
+   "CHEMBL97893"
+  ],
+  "skeletons": [
+   "RNBGYGVWRKECFJ"
+  ]
+ },
+ "fructose-2,6-bisphosphate": {
+  "name": "fructose-2,6-bisphosphate",
+  "anchors": [
+   {
+    "ccd": "FDP",
+    "ccd_name": "2,6-di-O-phosphono-beta-D-fructofuranose",
+    "formula": "C6 H14 O12 P2",
+    "type": "D-saccharide, beta linking",
+    "inchikey": "YXWOAJXNVLXPMU-ZXXMMSQZSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "FDP"
+  ],
+  "chembl_ids": [],
+  "skeletons": [
+   "YXWOAJXNVLXPMU"
+  ]
+ },
+ "fructose-6-phosphate": {
+  "name": "fructose-6-phosphate",
+  "anchors": [
+   {
+    "ccd": "F6P",
+    "ccd_name": "6-O-phosphono-beta-D-fructofuranose",
+    "formula": "C6 H13 O9 P",
+    "type": "D-saccharide, beta linking",
+    "inchikey": "BGWGXPAPYGQALX-ARQDHWQXSA-N"
+   },
+   {
+    "ccd": "F6R",
+    "ccd_name": "FRUCTOSE -6-PHOSPHATE",
+    "formula": "C6 H13 O9 P",
+    "type": "non-polymer",
+    "inchikey": "GSXOAOHZAIYLCY-HSUXUTPPSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "F6P",
+   "F6R",
+   "P6P",
+   "TA6",
+   "TG6"
+  ],
+  "chembl_ids": [
+   "CHEMBL604196"
+  ],
+  "skeletons": [
+   "BGWGXPAPYGQALX",
+   "GSXOAOHZAIYLCY"
+  ]
+ },
+ "glucose-6-phosphate": {
+  "name": "glucose-6-phosphate",
+  "anchors": [
+   {
+    "ccd": "G6P",
+    "ccd_name": "6-O-phosphono-alpha-D-glucopyranose",
+    "formula": "C6 H13 O9 P",
+    "type": "D-saccharide, alpha linking",
+    "inchikey": "NBSCHQHZLSJFNQ-DVKNGEFBSA-N"
+   },
+   {
+    "ccd": "BG6",
+    "ccd_name": "6-O-phosphono-beta-D-glucopyranose",
+    "formula": "C6 H13 O9 P",
+    "type": "D-saccharide, beta linking",
+    "inchikey": "NBSCHQHZLSJFNQ-VFUOTHLCSA-N"
+   },
+   {
+    "ccd": "A6P",
+    "ccd_name": "6-O-phosphono-alpha-D-allopyranose",
+    "formula": "C6 H13 O9 P",
+    "type": "D-saccharide, alpha linking",
+    "inchikey": "NBSCHQHZLSJFNQ-UKFBFLRUSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "A6P",
+   "BG6",
+   "BGP",
+   "G6P",
+   "M6D",
+   "M6P",
+   "RTG"
+  ],
+  "chembl_ids": [
+   "CHEMBL1159525",
+   "CHEMBL257975",
+   "CHEMBL4283156",
+   "CHEMBL4296692"
+  ],
+  "skeletons": [
+   "NBSCHQHZLSJFNQ"
+  ]
+ },
+ "glutamate": {
+  "name": "glutamate",
+  "anchors": [
+   {
+    "ccd": "GLU",
+    "ccd_name": "GLUTAMIC ACID",
+    "formula": "C5 H9 N O4",
+    "type": "L-peptide linking",
+    "inchikey": "WHUUTDBJXJRKMK-VKHMYHEASA-N"
+   }
+  ],
+  "pdb_ids": [
+   "DGL",
+   "FGA",
+   "GGL",
+   "GLU"
+  ],
+  "chembl_ids": [
+   "CHEMBL575060",
+   "CHEMBL76232"
+  ],
+  "skeletons": [
+   "WHUUTDBJXJRKMK"
+  ]
+ },
+ "leucine": {
+  "name": "leucine",
+  "anchors": [
+   {
+    "ccd": "LEU",
+    "ccd_name": "LEUCINE",
+    "formula": "C6 H13 N O2",
+    "type": "L-peptide linking",
+    "inchikey": "ROHFNLRQFUQHCH-YFKPBYRVSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "DLE",
+   "LEU"
+  ],
+  "chembl_ids": [
+   "CHEMBL1232258",
+   "CHEMBL291962",
+   "CHEMBL46575",
+   "CHEMBL5394043"
+  ],
+  "skeletons": [
+   "ROHFNLRQFUQHCH"
+  ]
+ },
+ "malonyl-CoA": {
+  "name": "malonyl-CoA",
+  "anchors": [
+   {
+    "ccd": "MLC",
+    "ccd_name": "MALONYL-COENZYME A",
+    "formula": "C24 H38 N7 O19 P3 S",
+    "type": "non-polymer",
+    "inchikey": "LTYOQGRJFJAKNA-DVVLENMVSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "MLC"
+  ],
+  "chembl_ids": [
+   "CHEMBL1234355"
+  ],
+  "skeletons": [
+   "LTYOQGRJFJAKNA"
+  ]
+ },
+ "oxaloacetate": {
+  "name": "oxaloacetate",
+  "anchors": [
+   {
+    "ccd": "OAA",
+    "ccd_name": "OXALOACETATE ION",
+    "formula": "C4 H3 O5",
+    "type": "non-polymer",
+    "inchikey": "KHPXUQMNIQBQEV-UHFFFAOYSA-M"
+   }
+  ],
+  "pdb_ids": [
+   "OAA"
+  ],
+  "chembl_ids": [
+   "CHEMBL1794791"
+  ],
+  "skeletons": [
+   "KHPXUQMNIQBQEV"
+  ]
+ },
+ "palmitoyl-CoA": {
+  "name": "palmitoyl-CoA",
+  "anchors": [
+   {
+    "ccd": "PKZ",
+    "ccd_name": "Palmitoyl-CoA",
+    "formula": "C37 H66 N7 O17 P3 S",
+    "type": "non-polymer",
+    "inchikey": "MNBKLUUYKPBKDU-BBECNAHFSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "PKZ"
+  ],
+  "chembl_ids": [
+   "CHEMBL3904487"
+  ],
+  "skeletons": [
+   "MNBKLUUYKPBKDU"
+  ]
+ },
+ "phenylalanine": {
+  "name": "phenylalanine",
+  "anchors": [
+   {
+    "ccd": "PHE",
+    "ccd_name": "PHENYLALANINE",
+    "formula": "C9 H11 N O2",
+    "type": "L-peptide linking",
+    "inchikey": "COLNVLDHVKWLRT-QMMMGPOBSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "DPN",
+   "PHE"
+  ],
+  "chembl_ids": [
+   "CHEMBL25080",
+   "CHEMBL301523",
+   "CHEMBL379630"
+  ],
+  "skeletons": [
+   "COLNVLDHVKWLRT"
+  ]
+ },
+ "phosphate": {
+  "name": "phosphate",
+  "anchors": [
+   {
+    "ccd": "PO4",
+    "ccd_name": "PHOSPHATE ION",
+    "formula": "O4 P",
+    "type": "non-polymer",
+    "inchikey": "NBIIXXVUZAFLBC-UHFFFAOYSA-K"
+   }
+  ],
+  "pdb_ids": [
+   "2HP",
+   "IPS",
+   "PI",
+   "PO4"
+  ],
+  "chembl_ids": [
+   "CHEMBL1187"
+  ],
+  "skeletons": [
+   "NBIIXXVUZAFLBC"
+  ]
+ },
+ "phosphoenolpyruvate": {
+  "name": "phosphoenolpyruvate",
+  "anchors": [
+   {
+    "ccd": "PEP",
+    "ccd_name": "PHOSPHOENOLPYRUVATE",
+    "formula": "C3 H5 O6 P",
+    "type": "non-polymer",
+    "inchikey": "DTBNBXWJWCWCIK-UHFFFAOYSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "PEP"
+  ],
+  "chembl_ids": [
+   "CHEMBL1235228"
+  ],
+  "skeletons": [
+   "DTBNBXWJWCWCIK"
+  ]
+ },
+ "serine": {
+  "name": "serine",
+  "anchors": [
+   {
+    "ccd": "SER",
+    "ccd_name": "SERINE",
+    "formula": "C3 H7 N O3",
+    "type": "L-peptide linking",
+    "inchikey": "MTCFGRXMJLQNBG-REOHCLBHSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "DSN",
+   "SEG",
+   "SER"
+  ],
+  "chembl_ids": [
+   "CHEMBL11298",
+   "CHEMBL285123",
+   "CHEMBL4650463"
+  ],
+  "skeletons": [
+   "MTCFGRXMJLQNBG"
+  ]
+ },
+ "sterol / lanosterol": {
+  "name": "sterol / lanosterol",
+  "anchors": [
+   {
+    "ccd": "LAN",
+    "ccd_name": "LANOSTEROL",
+    "formula": "C30 H50 O",
+    "type": "non-polymer",
+    "inchikey": "CAHGCLMLTWQZNJ-BQNIITSRSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "LAN"
+  ],
+  "chembl_ids": [
+   "CHEMBL1397369",
+   "CHEMBL225111",
+   "CHEMBL465181",
+   "CHEMBL4758980"
+  ],
+  "skeletons": [
+   "CAHGCLMLTWQZNJ"
+  ]
+ },
+ "succinyl-CoA": {
+  "name": "succinyl-CoA",
+  "anchors": [
+   {
+    "ccd": "SCA",
+    "ccd_name": "SUCCINYL-COENZYME A",
+    "formula": "C25 H40 N7 O19 P3 S",
+    "type": "non-polymer",
+    "inchikey": "VNOYUJKHFWYWIR-ITIYDSSPSA-N"
+   }
+  ],
+  "pdb_ids": [
+   "SCA"
+  ],
+  "chembl_ids": [
+   "CHEMBL2338332"
+  ],
+  "skeletons": [
+   "VNOYUJKHFWYWIR"
+  ]
+ }
+}

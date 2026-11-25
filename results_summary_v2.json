@@ -1,0 +1,42 @@
+{
+ "p_binder": {
+  "pairs": 32,
+  "mean_beats_decoys": 0.765625,
+  "p_one_sided": 0.0,
+  "critical_value": 0.5989583333333334,
+  "top1": 20,
+  "mean_beats_phosphorylated": 0.859375
+ },
+ "affinity": {
+  "pairs": 32,
+  "mean_beats_decoys": 0.8385416666666667,
+  "p_one_sided": 0.0,
+  "critical_value": 0.5989583333333334,
+  "top1": 19,
+  "mean_beats_phosphorylated": 0.890625
+ },
+ "msa_depth_by_target": {
+  "ACACB": 8192,
+  "ADSS2": 8192,
+  "CPT1A": 8192,
+  "CS": 7662,
+  "CTPS2": 8192,
+  "DCK": 7134,
+  "FBP1": 8192,
+  "G6PD": 8192,
+  "GCK": 8192,
+  "GLUD1": 8192,
+  "HMGCR": 8192,
+  "OGDH": 8192,
+  "PC": 8192,
+  "PDHA1": 8192,
+  "PFKP": 8192,
+  "PGD": 8192,
+  "PHGDH": 8192,
+  "PKLR": 8192,
+  "PKM": 8192,
+  "PPAT": 8192,
+  "RRM1": 8192,
+  "SAMTOR": 1386
+ }
+}

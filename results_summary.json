@@ -1,0 +1,20 @@
+{
+ "p_binder": {
+  "pairs": 12,
+  "mean_beats_decoys": 0.8333333333333334,
+  "p_one_sided": 0.00024,
+  "top1": 7,
+  "mean_beats_phosphorylated": 1.0,
+  "single_chain_sites": 0.8703703703703705,
+  "interface_sites": 0.7222222222222222
+ },
+ "affinity": {
+  "pairs": 12,
+  "mean_beats_decoys": 0.9166666666666666,
+  "p_one_sided": 0.0,
+  "top1": 8,
+  "mean_beats_phosphorylated": 1.0,
+  "single_chain_sites": 0.9074074074074073,
+  "interface_sites": 0.9444444444444445
+ }
+}

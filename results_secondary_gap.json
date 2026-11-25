@@ -1,0 +1,96 @@
+{
+ "pairs": 12,
+ "gap": 0.234,
+ "mean_beats_decoys_raw": 0.9166666666666666,
+ "p_one_sided_raw": 0.0,
+ "mean_beats_decoys_gap": 0.9166666666666666,
+ "p_one_sided_gap": 0.0,
+ "pairs_meeting_bar": 8,
+ "regulators_within_gap_of_nearest_decoy": 2,
+ "per_pair": [
+  {
+   "protein": "PRKAG1",
+   "regulator": "AMP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.2377
+  },
+  {
+   "protein": "FBP1",
+   "regulator": "AMP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.8333,
+   "lead_nearest": -0.2321
+  },
+  {
+   "protein": "PKM",
+   "regulator": "FBP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.0647
+  },
+  {
+   "protein": "GLUD1",
+   "regulator": "GTP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.6051
+  },
+  {
+   "protein": "GLUD1",
+   "regulator": "ADP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.2023
+  },
+  {
+   "protein": "PRPS1",
+   "regulator": "ADP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.8333,
+   "lead_nearest": -0.218
+  },
+  {
+   "protein": "CTPS1",
+   "regulator": "CTP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.5994
+  },
+  {
+   "protein": "IMPDH2",
+   "regulator": "ATP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.6239
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "AMP",
+   "beats_raw": 0.6667,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.7386
+  },
+  {
+   "protein": "G6PD",
+   "regulator": "NAP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.15
+  },
+  {
+   "protein": "PFKL",
+   "regulator": "ATP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.3777
+  },
+  {
+   "protein": "PFKL",
+   "regulator": "CIT",
+   "beats_raw": 0.6667,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.3701
+  }
+ ]
+}

@@ -1,0 +1,598 @@
+{
+ "ACACA": {
+  "gene": "ACACA",
+  "accession": "Q13085",
+  "uniprot_id": "ACACA_HUMAN",
+  "human": true,
+  "name": "Acetyl-CoA carboxylase 1",
+  "synonyms": [
+   "Acetyl-CoA carboxylase 1",
+   "Acetyl-Coenzyme A carboxylase alpha"
+  ],
+  "length": 2346,
+  "pdb_entries": 10
+ },
+ "ACACB": {
+  "gene": "ACACB",
+  "accession": "O00763",
+  "uniprot_id": "ACACB_HUMAN",
+  "human": true,
+  "name": "Acetyl-CoA carboxylase 2",
+  "synonyms": [
+   "Acetyl-CoA carboxylase 2",
+   "ACC-beta"
+  ],
+  "length": 2458,
+  "pdb_entries": 11
+ },
+ "ADSS2": {
+  "gene": "ADSS2",
+  "accession": "P30520",
+  "uniprot_id": "PURA2_HUMAN",
+  "human": true,
+  "name": "Adenylosuccinate synthetase isozyme 2",
+  "synonyms": [
+   "Adenylosuccinate synthetase isozyme 2",
+   "Adenylosuccinate synthetase, acidic isozyme",
+   "Adenylosuccinate synthetase, liver isozyme",
+   "IMP--aspartate ligase 2"
+  ],
+  "length": 456,
+  "pdb_entries": 1
+ },
+ "CAD": {
+  "gene": "CAD",
+  "accession": "P27708",
+  "uniprot_id": "PYR1_HUMAN",
+  "human": true,
+  "name": "Multifunctional protein CAD",
+  "synonyms": [
+   "Multifunctional protein CAD",
+   "Carbamoyl phosphate synthetase 2-aspartate transcarbamylase-dihydroorotase"
+  ],
+  "length": 2225,
+  "pdb_entries": 57
+ },
+ "CASTOR1": {
+  "gene": "CASTOR1",
+  "accession": "Q8WTX7",
+  "uniprot_id": "CAST1_HUMAN",
+  "human": true,
+  "name": "Cytosolic arginine sensor for mTORC1 subunit 1",
+  "synonyms": [
+   "Cytosolic arginine sensor for mTORC1 subunit 1",
+   "Cellular arginine sensor for mTORC1 protein 1",
+   "GATS-like protein 3"
+  ],
+  "length": 329,
+  "pdb_entries": 11
+ },
+ "CBS": {
+  "gene": "CBS",
+  "accession": "P35520",
+  "uniprot_id": "CBS_HUMAN",
+  "human": true,
+  "name": "Cystathionine beta-synthase",
+  "synonyms": [
+   "Cystathionine beta-synthase",
+   "Beta-thionase",
+   "Serine sulfhydrase"
+  ],
+  "length": 551,
+  "pdb_entries": 28
+ },
+ "CPS1": {
+  "gene": "CPS1",
+  "accession": "P31327",
+  "uniprot_id": "CPSM_HUMAN",
+  "human": true,
+  "name": "Carbamoyl-phosphate synthase [ammonia], mitochondrial",
+  "synonyms": [
+   "Carbamoyl-phosphate synthase [ammonia], mitochondrial",
+   "Carbamoyl-phosphate synthetase I"
+  ],
+  "length": 1500,
+  "pdb_entries": 14
+ },
+ "CPT1A": {
+  "gene": "CPT1A",
+  "accession": "P50416",
+  "uniprot_id": "CPT1A_HUMAN",
+  "human": true,
+  "name": "Carnitine O-palmitoyltransferase 1, liver isoform",
+  "synonyms": [
+   "Carnitine O-palmitoyltransferase 1, liver isoform",
+   "Carnitine O-palmitoyltransferase I, liver isoform",
+   "Carnitine palmitoyltransferase 1A",
+   "Succinyltransferase CPT1A"
+  ],
+  "length": 773,
+  "pdb_entries": 1
+ },
+ "CS": {
+  "gene": "CS",
+  "accession": "O75390",
+  "uniprot_id": "CISY_HUMAN",
+  "human": true,
+  "name": "Citrate synthase, mitochondrial",
+  "synonyms": [
+   "Citrate synthase, mitochondrial",
+   "Citrate (Si)-synthase"
+  ],
+  "length": 466,
+  "pdb_entries": 11
+ },
+ "CTPS1": {
+  "gene": "CTPS1",
+  "accession": "P17812",
+  "uniprot_id": "PYRG1_HUMAN",
+  "human": true,
+  "name": "CTP synthase 1",
+  "synonyms": [
+   "CTP synthase 1",
+   "CTP synthetase 1",
+   "Protein-asparagine deamidase CTPS1",
+   "UTP--ammonia ligase 1"
+  ],
+  "length": 591,
+  "pdb_entries": 7
+ },
+ "CTPS2": {
+  "gene": "CTPS2",
+  "accession": "Q9NRF8",
+  "uniprot_id": "PYRG2_HUMAN",
+  "human": true,
+  "name": "CTP synthase 2",
+  "synonyms": [
+   "CTP synthase 2",
+   "CTP synthetase 2",
+   "UTP--ammonia ligase 2"
+  ],
+  "length": 586,
+  "pdb_entries": 8
+ },
+ "DCK": {
+  "gene": "DCK",
+  "accession": "P27707",
+  "uniprot_id": "DCK_HUMAN",
+  "human": true,
+  "name": "Deoxycytidine kinase",
+  "synonyms": [
+   "Deoxycytidine kinase",
+   "Deoxyadenosine kinase",
+   "Deoxyguanosine kinase"
+  ],
+  "length": 260,
+  "pdb_entries": 58
+ },
+ "FBP1": {
+  "gene": "FBP1",
+  "accession": "P09467",
+  "uniprot_id": "F16P1_HUMAN",
+  "human": true,
+  "name": "Fructose-1,6-bisphosphatase 1",
+  "synonyms": [
+   "Fructose-1,6-bisphosphatase 1",
+   "D-fructose-1,6-bisphosphate 1-phosphohydrolase 1",
+   "Liver FBPase"
+  ],
+  "length": 338,
+  "pdb_entries": 51
+ },
+ "G6PD": {
+  "gene": "G6PD",
+  "accession": "P11413",
+  "uniprot_id": "G6PD_HUMAN",
+  "human": true,
+  "name": "Glucose-6-phosphate 1-dehydrogenase",
+  "synonyms": [
+   "Glucose-6-phosphate 1-dehydrogenase"
+  ],
+  "length": 515,
+  "pdb_entries": 25
+ },
+ "GCK": {
+  "gene": "GCK",
+  "accession": "P35557",
+  "uniprot_id": "HXK4_HUMAN",
+  "human": true,
+  "name": "Hexokinase-4",
+  "synonyms": [
+   "Hexokinase-4",
+   "Glucokinase",
+   "Hexokinase type IV",
+   "Hexokinase-D"
+  ],
+  "length": 465,
+  "pdb_entries": 35
+ },
+ "GLS": {
+  "gene": "GLS",
+  "accession": "O94925",
+  "uniprot_id": "GLSK_HUMAN",
+  "human": true,
+  "name": "Glutaminase kidney isoform, mitochondrial",
+  "synonyms": [
+   "Glutaminase kidney isoform, mitochondrial",
+   "K-glutaminase",
+   "L-glutamine amidohydrolase"
+  ],
+  "length": 669,
+  "pdb_entries": 50
+ },
+ "GLUD1": {
+  "gene": "GLUD1",
+  "accession": "P00367",
+  "uniprot_id": "DHE3_HUMAN",
+  "human": true,
+  "name": "Glutamate dehydrogenase 1, mitochondrial",
+  "synonyms": [
+   "Glutamate dehydrogenase 1, mitochondrial"
+  ],
+  "length": 558,
+  "pdb_entries": 7
+ },
+ "HK1": {
+  "gene": "HK1",
+  "accession": "P19367",
+  "uniprot_id": "HXK1_HUMAN",
+  "human": true,
+  "name": "Hexokinase-1",
+  "synonyms": [
+   "Hexokinase-1",
+   "Brain form hexokinase",
+   "Hexokinase type I",
+   "Hexokinase-A"
+  ],
+  "length": 917,
+  "pdb_entries": 10
+ },
+ "HK2": {
+  "gene": "HK2",
+  "accession": "P52789",
+  "uniprot_id": "HXK2_HUMAN",
+  "human": true,
+  "name": "Hexokinase-2",
+  "synonyms": [
+   "Hexokinase-2",
+   "Hexokinase type II",
+   "Hexokinase-B",
+   "Muscle form hexokinase"
+  ],
+  "length": 917,
+  "pdb_entries": 4
+ },
+ "HMGCR": {
+  "gene": "HMGCR",
+  "accession": "P04035",
+  "uniprot_id": "HMDH_HUMAN",
+  "human": true,
+  "name": "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+  "synonyms": [
+   "3-hydroxy-3-methylglutaryl-coenzyme A reductase"
+  ],
+  "length": 888,
+  "pdb_entries": 24
+ },
+ "IDH3A": {
+  "gene": "IDH3A",
+  "accession": "P50213",
+  "uniprot_id": "IDH3A_HUMAN",
+  "human": true,
+  "name": "Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",
+  "synonyms": [
+   "Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial",
+   "Isocitric dehydrogenase subunit alpha",
+   "NAD(+)-specific ICDH subunit alpha"
+  ],
+  "length": 366,
+  "pdb_entries": 19
+ },
+ "IMPDH1": {
+  "gene": "IMPDH1",
+  "accession": "P20839",
+  "uniprot_id": "IMDH1_HUMAN",
+  "human": true,
+  "name": "Inosine-5'-monophosphate dehydrogenase 1",
+  "synonyms": [
+   "Inosine-5'-monophosphate dehydrogenase 1",
+   "IMPDH-I"
+  ],
+  "length": 514,
+  "pdb_entries": 18
+ },
+ "IMPDH2": {
+  "gene": "IMPDH2",
+  "accession": "P12268",
+  "uniprot_id": "IMDH2_HUMAN",
+  "human": true,
+  "name": "Inosine-5'-monophosphate dehydrogenase 2",
+  "synonyms": [
+   "Inosine-5'-monophosphate dehydrogenase 2",
+   "Inosine-5'-monophosphate dehydrogenase type II"
+  ],
+  "length": 514,
+  "pdb_entries": 25
+ },
+ "MAT2A": {
+  "gene": "MAT2A",
+  "accession": "P31153",
+  "uniprot_id": "METK2_HUMAN",
+  "human": true,
+  "name": "S-adenosylmethionine synthase isoform type-2",
+  "synonyms": [
+   "S-adenosylmethionine synthase isoform type-2",
+   "Methionine adenosyltransferase 2",
+   "Methionine adenosyltransferase II"
+  ],
+  "length": 395,
+  "pdb_entries": 59
+ },
+ "OGDH": {
+  "gene": "OGDH",
+  "accession": "Q02218",
+  "uniprot_id": "ODO1_HUMAN",
+  "human": true,
+  "name": "2-oxoglutarate dehydrogenase complex component E1",
+  "synonyms": [
+   "2-oxoglutarate dehydrogenase complex component E1",
+   "2-oxoglutarate dehydrogenase, mitochondrial",
+   "Alpha-ketoglutarate dehydrogenase",
+   "Thiamine diphosphate (ThDP)-dependent 2-oxoglutarate dehydrogenase"
+  ],
+  "length": 1023,
+  "pdb_entries": 3
+ },
+ "PC": {
+  "gene": "PC",
+  "accession": "P11498",
+  "uniprot_id": "PYC_HUMAN",
+  "human": true,
+  "name": "Pyruvate carboxylase, mitochondrial",
+  "synonyms": [
+   "Pyruvate carboxylase, mitochondrial",
+   "Pyruvic carboxylase"
+  ],
+  "length": 1178,
+  "pdb_entries": 10
+ },
+ "PDHA1": {
+  "gene": "PDHA1",
+  "accession": "P08559",
+  "uniprot_id": "ODPA_HUMAN",
+  "human": true,
+  "name": "Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",
+  "synonyms": [
+   "Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",
+   "PDHE1-A type I"
+  ],
+  "length": 390,
+  "pdb_entries": 9
+ },
+ "PFKL": {
+  "gene": "PFKL",
+  "accession": "P17858",
+  "uniprot_id": "PFKAL_HUMAN",
+  "human": true,
+  "name": "ATP-dependent 6-phosphofructokinase, liver type",
+  "synonyms": [
+   "ATP-dependent 6-phosphofructokinase, liver type",
+   "6-phosphofructokinase type B",
+   "Phosphofructo-1-kinase isozyme B",
+   "Phosphohexokinase"
+  ],
+  "length": 780,
+  "pdb_entries": 6
+ },
+ "PFKM": {
+  "gene": "PFKM",
+  "accession": "P08237",
+  "uniprot_id": "PFKAM_HUMAN",
+  "human": true,
+  "name": "ATP-dependent 6-phosphofructokinase, muscle type",
+  "synonyms": [
+   "ATP-dependent 6-phosphofructokinase, muscle type",
+   "6-phosphofructokinase type A",
+   "Phosphofructo-1-kinase isozyme A",
+   "Phosphohexokinase"
+  ],
+  "length": 780,
+  "pdb_entries": 1
+ },
+ "PFKP": {
+  "gene": "PFKP",
+  "accession": "Q01813",
+  "uniprot_id": "PFKAP_HUMAN",
+  "human": true,
+  "name": "ATP-dependent 6-phosphofructokinase, platelet type",
+  "synonyms": [
+   "ATP-dependent 6-phosphofructokinase, platelet type",
+   "6-phosphofructokinase type C",
+   "Phosphofructo-1-kinase isozyme C",
+   "Phosphohexokinase"
+  ],
+  "length": 784,
+  "pdb_entries": 7
+ },
+ "PGD": {
+  "gene": "PGD",
+  "accession": "P52209",
+  "uniprot_id": "6PGD_HUMAN",
+  "human": true,
+  "name": "6-phosphogluconate dehydrogenase, decarboxylating",
+  "synonyms": [
+   "6-phosphogluconate dehydrogenase, decarboxylating"
+  ],
+  "length": 483,
+  "pdb_entries": 4
+ },
+ "PHGDH": {
+  "gene": "PHGDH",
+  "accession": "O43175",
+  "uniprot_id": "SERA_HUMAN",
+  "human": true,
+  "name": "D-3-phosphoglycerate dehydrogenase",
+  "synonyms": [
+   "D-3-phosphoglycerate dehydrogenase",
+   "2-oxoglutarate reductase",
+   "Malate dehydrogenase"
+  ],
+  "length": 533,
+  "pdb_entries": 21
+ },
+ "PKLR": {
+  "gene": "PKLR",
+  "accession": "P30613",
+  "uniprot_id": "KPYR_HUMAN",
+  "human": true,
+  "name": "Pyruvate kinase PKLR",
+  "synonyms": [
+   "Pyruvate kinase PKLR",
+   "Pyruvate kinase 1",
+   "Pyruvate kinase isozymes L/R",
+   "R-type/L-type pyruvate kinase",
+   "Red cell/liver pyruvate kinase"
+  ],
+  "length": 574,
+  "pdb_entries": 79
+ },
+ "PKM": {
+  "gene": "PKM",
+  "accession": "P14618",
+  "uniprot_id": "KPYM_HUMAN",
+  "human": true,
+  "name": "Pyruvate kinase PKM",
+  "synonyms": [
+   "Pyruvate kinase PKM",
+   "Cytosolic thyroid hormone-binding protein",
+   "Opa-interacting protein 3",
+   "Pyruvate kinase 2/3",
+   "Pyruvate kinase muscle isozyme",
+   "Threonine-protein kinase PKM2",
+   "Thyroid hormone-binding protein 1",
+   "Tumor M2-PK",
+   "Tyrosine-protein kinase PKM2",
+   "p58"
+  ],
+  "length": 531,
+  "pdb_entries": 61
+ },
+ "PPAT": {
+  "gene": "PPAT",
+  "accession": "Q06203",
+  "uniprot_id": "PUR1_HUMAN",
+  "human": true,
+  "name": "Amidophosphoribosyltransferase",
+  "synonyms": [
+   "Amidophosphoribosyltransferase",
+   "Glutamine phosphoribosylpyrophosphate amidotransferase"
+  ],
+  "length": 517,
+  "pdb_entries": 3
+ },
+ "PRKAG1": {
+  "gene": "PRKAG1",
+  "accession": "P54619",
+  "uniprot_id": "AAKG1_HUMAN",
+  "human": true,
+  "name": "5'-AMP-activated protein kinase subunit gamma-1",
+  "synonyms": [
+   "5'-AMP-activated protein kinase subunit gamma-1"
+  ],
+  "length": 331,
+  "pdb_entries": 23
+ },
+ "PRKAG2": {
+  "gene": "PRKAG2",
+  "accession": "Q9UGJ0",
+  "uniprot_id": "AAKG2_HUMAN",
+  "human": true,
+  "name": "5'-AMP-activated protein kinase subunit gamma-2",
+  "synonyms": [
+   "5'-AMP-activated protein kinase subunit gamma-2",
+   "H91620p"
+  ],
+  "length": 569,
+  "pdb_entries": 0
+ },
+ "PRPS1": {
+  "gene": "PRPS1",
+  "accession": "P60891",
+  "uniprot_id": "PRPS1_HUMAN",
+  "human": true,
+  "name": "Ribose-phosphate pyrophosphokinase 1",
+  "synonyms": [
+   "Ribose-phosphate pyrophosphokinase 1",
+   "PPRibP",
+   "Phosphoribosyl pyrophosphate synthetase subunit I"
+  ],
+  "length": 318,
+  "pdb_entries": 27
+ },
+ "RRM1": {
+  "gene": "RRM1",
+  "accession": "P23921",
+  "uniprot_id": "RIR1_HUMAN",
+  "human": true,
+  "name": "Ribonucleoside-diphosphate reductase large subunit",
+  "synonyms": [
+   "Ribonucleoside-diphosphate reductase large subunit",
+   "Ribonucleoside-diphosphate reductase subunit M1",
+   "Ribonucleotide reductase large subunit"
+  ],
+  "length": 792,
+  "pdb_entries": 12
+ },
+ "SAMTOR": {
+  "gene": "SAMTOR",
+  "accession": "Q1RMZ1",
+  "uniprot_id": "SAMTR_HUMAN",
+  "human": true,
+  "name": "S-adenosylmethionine sensor upstream of mTORC1",
+  "synonyms": [
+   "S-adenosylmethionine sensor upstream of mTORC1",
+   "Probable methyltransferase BMT2 homolog"
+  ],
+  "length": 405,
+  "pdb_entries": 1
+ },
+ "SDHA": {
+  "gene": "SDHA",
+  "accession": "P31040",
+  "uniprot_id": "SDHA_HUMAN",
+  "human": true,
+  "name": "Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",
+  "synonyms": [
+   "Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",
+   "Flavoprotein subunit of complex II",
+   "Malate dehydrogenase [quinone] flavoprotein subunit"
+  ],
+  "length": 664,
+  "pdb_entries": 5
+ },
+ "SESN2": {
+  "gene": "SESN2",
+  "accession": "P58004",
+  "uniprot_id": "SESN2_HUMAN",
+  "human": true,
+  "name": "Sestrin-2",
+  "synonyms": [
+   "Sestrin-2",
+   "Hypoxia-induced gene"
+  ],
+  "length": 480,
+  "pdb_entries": 8
+ },
+ "TK1": {
+  "gene": "TK1",
+  "accession": "P04183",
+  "uniprot_id": "KITH_HUMAN",
+  "human": true,
+  "name": "Thymidine kinase, cytosolic",
+  "synonyms": [
+   "Thymidine kinase, cytosolic"
+  ],
+  "length": 234,
+  "pdb_entries": 4
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "pairs": 32,
+ "gap": 0.234,
+ "mean_beats_decoys_raw": 0.8385416666666667,
+ "p_one_sided_raw": 0.0,
+ "mean_beats_decoys_gap": 0.7916666666666667,
+ "p_one_sided_gap": 0.0,
+ "pairs_meeting_bar": 18,
+ "regulators_within_gap_of_nearest_decoy": 3,
+ "per_pair": [
+  {
+   "protein": "ACACB",
+   "regulator": "CIT",
+   "beats_raw": 0.3333,
+   "beats_gap": 0.3333,
+   "lead_nearest": -0.8302
+  },
+  {
+   "protein": "ACACB",
+   "regulator": "PKZ",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.7208
+  },
+  {
+   "protein": "ADSS2",
+   "regulator": "GTP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.3114
+  },
+  {
+   "protein": "CPT1A",
+   "regulator": "MLC",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.4618
+  },
+  {
+   "protein": "CS",
+   "regulator": "NAI",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.1919
+  },
+  {
+   "protein": "CS",
+   "regulator": "SCA",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.8416
+  },
+  {
+   "protein": "CTPS2",
+   "regulator": "GTP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.4702
+  },
+  {
+   "protein": "DCK",
+   "regulator": "DCP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.0428
+  },
+  {
+   "protein": "FBP1",
+   "regulator": "FDP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.8333,
+   "lead_nearest": -0.5746
+  },
+  {
+   "protein": "G6PD",
+   "regulator": "NDP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.6349
+  },
+  {
+   "protein": "GCK",
+   "regulator": "PKZ",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.2994
+  },
+  {
+   "protein": "GLUD1",
+   "regulator": "PKZ",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.746
+  },
+  {
+   "protein": "HMGCR",
+   "regulator": "LAN",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.7176
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "SCA",
+   "beats_raw": 1.0,
+   "beats_gap": 0.8333,
+   "lead_nearest": 0.1485
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "NAI",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.5865
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "AMP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.7122
+  },
+  {
+   "protein": "PC",
+   "regulator": "ASP",
+   "beats_raw": 0.3333,
+   "beats_gap": 0.1667,
+   "lead_nearest": -1.2633
+  },
+  {
+   "protein": "PDHA1",
+   "regulator": "ACO",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.1683
+  },
+  {
+   "protein": "PDHA1",
+   "regulator": "NAI",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.8666
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "CIT",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.432
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "FDP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.4034
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "AMP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.8333,
+   "lead_nearest": -0.0546
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "PEP",
+   "beats_raw": 0.5,
+   "beats_gap": 0.3333,
+   "lead_nearest": -0.9202
+  },
+  {
+   "protein": "PGD",
+   "regulator": "NDP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 2.1026
+  },
+  {
+   "protein": "PHGDH",
+   "regulator": "SER",
+   "beats_raw": 0.0,
+   "beats_gap": 0.0,
+   "lead_nearest": -2.473
+  },
+  {
+   "protein": "PKLR",
+   "regulator": "ALA",
+   "beats_raw": 0.1667,
+   "beats_gap": 0.0,
+   "lead_nearest": -2.2783
+  },
+  {
+   "protein": "PKM",
+   "regulator": "SSS",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.8333,
+   "lead_nearest": -0.1107
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "5GP",
+   "beats_raw": 0.6667,
+   "beats_gap": 0.5,
+   "lead_nearest": -1.1022
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "ADP",
+   "beats_raw": 0.8333,
+   "beats_gap": 0.6667,
+   "lead_nearest": -0.3064
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "PRP",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 0.6307
+  },
+  {
+   "protein": "RRM1",
+   "regulator": "DGT",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.2621
+  },
+  {
+   "protein": "SAMTOR",
+   "regulator": "SAM",
+   "beats_raw": 1.0,
+   "beats_gap": 1.0,
+   "lead_nearest": 1.5275
+  }
+ ]
+}

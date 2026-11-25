@@ -1,0 +1,218 @@
+{
+ "PRKAG1": {
+  "uniprot": "P54619",
+  "length": 331,
+  "regulators": [
+   "AMP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "ADP",
+   "ATP"
+  ],
+  "site": "CBS domains, within one chain"
+ },
+ "FBP1": {
+  "uniprot": "P09467",
+  "length": 338,
+  "regulators": [
+   "AMP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "FBP",
+   "F6P"
+  ],
+  "site": "AMP allosteric site, within one chain"
+ },
+ "PKM": {
+  "uniprot": "P14618",
+  "length": 531,
+  "regulators": [
+   "FBP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "PEP",
+   "PYR",
+   "ATP",
+   "ADP"
+  ],
+  "site": "FBP pocket in the C domain"
+ },
+ "GLUD1": {
+  "uniprot": "P00367",
+  "length": 558,
+  "regulators": [
+   "GTP",
+   "ADP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "NAD",
+   "NAP",
+   "GLU",
+   "AKG"
+  ],
+  "site": "GTP site sits at subunit interfaces of the hexamer"
+ },
+ "PRPS1": {
+  "uniprot": "P60891",
+  "length": 318,
+  "regulators": [
+   "ADP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "R5P",
+   "ATP",
+   "PRP",
+   "AMP"
+  ],
+  "site": "allosteric site at a subunit interface"
+ },
+ "CTPS1": {
+  "uniprot": "P17812",
+  "length": 591,
+  "regulators": [
+   "CTP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "UTP",
+   "ATP",
+   "GTP",
+   "GLN"
+  ],
+  "site": "CTP site overlaps UTP substrate site"
+ },
+ "IMPDH2": {
+  "uniprot": "P12268",
+  "length": 514,
+  "regulators": [
+   "ATP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "IMP",
+   "NAD",
+   "XMP",
+   "GTP",
+   "GDP"
+  ],
+  "site": "Bateman (CBS) domain"
+ },
+ "PPAT": {
+  "uniprot": "Q06203",
+  "length": 517,
+  "regulators": [
+   "AMP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "PRP",
+   "GLN",
+   "GMP"
+  ],
+  "site": "nucleotide feedback site"
+ },
+ "G6PD": {
+  "uniprot": "P11413",
+  "length": 515,
+  "regulators": [
+   "NAP"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "G6P",
+   "NDP"
+  ],
+  "site": "structural NADP+ site"
+ },
+ "PFKL": {
+  "uniprot": "P17858",
+  "length": 780,
+  "regulators": [
+   "ATP",
+   "CIT"
+  ],
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "excluded": [
+   "F6P",
+   "FBP",
+   "ADP",
+   "AMP"
+  ],
+  "site": "ATP inhibitory and citrate sites; 780 aa, slowest"
+ }
+}

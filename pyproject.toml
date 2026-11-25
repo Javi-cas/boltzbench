@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boltzbench"
+version = "0.1.0"
+description = "Benchmark of Boltz-2 on ranking known allosteric regulators of human metabolic enzymes above decoys, with the baseline that dissolves it"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [{ name = "Javier Villela-Castrejon", email = "javi.cas@tamu.edu" }]
+keywords = ["benchmark", "boltz-2", "structure-prediction", "allosteric-regulation", "evaluation"]
+classifiers = [
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dynamic = ["dependencies"]
+
+[project.urls]
+Source = "https://github.com/Javi-cas/boltzbench"
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools.dynamic]
+dependencies = { file = ["requirements.txt"] }
+
+# Scripts live at the repository root rather than in an importable package,
+# so auto-discovery is turned off deliberately.
+[tool.setuptools]
+py-modules = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

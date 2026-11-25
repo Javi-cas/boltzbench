@@ -1,0 +1,312 @@
+{
+ "ACACB": {
+  "accession": "O00763",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "ADSS2": {
+  "accession": "P30520",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "CPT1A": {
+  "accession": "P50416",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "CS": {
+  "accession": "O75390",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "CTPS2": {
+  "accession": "Q9NRF8",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "DCK": {
+  "accession": "P27707",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "FBP1": {
+  "accession": "P09467",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "G6PD": {
+  "accession": "P11413",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "G6P"
+  ]
+ },
+ "GCK": {
+  "accession": "P35557",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "G6P"
+  ]
+ },
+ "GLUD1": {
+  "accession": "P00367",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "HMGCR": {
+  "accession": "P04035",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "OGDH": {
+  "accession": "Q02218",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "PC": {
+  "accession": "P11498",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "PDHA1": {
+  "accession": "P08559",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "PFKP": {
+  "accession": "Q01813",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "PEP"
+  ]
+ },
+ "PGD": {
+  "accession": "P52209",
+  "decoys": [
+   "G3P",
+   "PEP",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [
+   {
+    "skipped": "3PG",
+    "reason": "inhibitor: human 6PGD complexed with 3-phosphoglycerate, PDB 4GWK, Hitosugi et al. Cancer Cell 2012"
+   }
+  ],
+  "not_reached": [
+   "R5P"
+  ]
+ },
+ "PHGDH": {
+  "accession": "O43175",
+  "decoys": [
+   "G3P",
+   "PEP",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [
+   {
+    "skipped": "3PG",
+    "reason": "substrate; bound in deposited structures"
+   }
+  ],
+  "not_reached": []
+ },
+ "PKLR": {
+  "accession": "P30613",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "PEP"
+  ]
+ },
+ "PKM": {
+  "accession": "P14618",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "PEP"
+  ]
+ },
+ "PPAT": {
+  "accession": "Q06203",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": [
+   "R5P"
+  ]
+ },
+ "RRM1": {
+  "accession": "P23921",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ },
+ "SAMTOR": {
+  "accession": "Q1RMZ1",
+  "decoys": [
+   "3PG",
+   "G3P",
+   "SUC",
+   "TRE",
+   "SIN",
+   "TAU"
+  ],
+  "substitutions": [],
+  "not_reached": []
+ }
+}

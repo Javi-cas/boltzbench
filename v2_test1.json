@@ -1,0 +1,976 @@
+{
+ "01": {
+  "term": "(\"PFKP\"[tiab] OR \"ATP-dependent 6-phosphofructokinase, platelet type\"[tiab] OR \"6-phosphofructokinase type C\"[tiab] OR \"Phosphofructo-1-kinase isozyme C\"[tiab] OR \"Phosphohexokinase\"[tiab]) AND (\"ATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 38,
+  "pmids": [
+   "42193202",
+   "42113369",
+   "41922343"
+  ],
+  "titles": [
+   "PMID 42193202 (2026) Mitochondria-Associated mRNAs Restore ATP During Oxidative Stress via Cytosolic Translation.",
+   "PMID 42113369 (2026) Vitexin inhibits renal cell carcinoma progression by targeting Galectin-1-mediated glycolytic m",
+   "PMID 41922343 (2026) YY1/Asprosin/PFKP axis regulates glycolytic metabolic and exacerbates pathological cardiac hype"
+  ]
+ },
+ "02": {
+  "term": "(\"PFKP\"[tiab] OR \"ATP-dependent 6-phosphofructokinase, platelet type\"[tiab] OR \"6-phosphofructokinase type C\"[tiab] OR \"Phosphofructo-1-kinase isozyme C\"[tiab] OR \"Phosphohexokinase\"[tiab]) AND (\"citrate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 6,
+  "pmids": [
+   "41171083",
+   "40475528",
+   "34737635"
+  ],
+  "titles": [
+   "PMID 41171083 (2025) Pneumococcal H\u2082O\u2082 reshapes mitochondrial function and reprograms host cell metabolism.",
+   "PMID 40475528 (2025) Pneumococcal H(2)O(2) Reshapes Mitochondrial Function and Reprograms Host Cell Metabolism.",
+   "PMID 34737635 (2021) Targeted Inhibition of HK-II Reversed the Warburg Effect to Improve the Radiosensitivity of Lar"
+  ]
+ },
+ "03": {
+  "term": "(\"PFKP\"[tiab] OR \"ATP-dependent 6-phosphofructokinase, platelet type\"[tiab] OR \"6-phosphofructokinase type C\"[tiab] OR \"Phosphofructo-1-kinase isozyme C\"[tiab] OR \"Phosphohexokinase\"[tiab]) AND (\"F26BP\"[tiab] OR \"fructose 2,6-bisphosphate\"[tiab] OR \"fructose-2,6-P2\"[tiab] OR \"fructose-2,6-bisphosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 5,
+  "pmids": [
+   "37450687",
+   "33141153",
+   "32651957"
+  ],
+  "titles": [
+   "PMID 37450687 (2023) Combination of 3PO analog PFK15 and siPFKL efficiently suppresses the migration, colony formati",
+   "PMID 33141153 (2020) Biochemical and transcript level differences between the three human phosphofructokinases show ",
+   "PMID 32651957 (2020) TCF7L2 rs290487 C allele aberrantly enhances hepatic gluconeogenesis through allele-specific ch"
+  ]
+ },
+ "04": {
+  "term": "(\"PFKP\"[tiab] OR \"ATP-dependent 6-phosphofructokinase, platelet type\"[tiab] OR \"6-phosphofructokinase type C\"[tiab] OR \"Phosphofructo-1-kinase isozyme C\"[tiab] OR \"Phosphohexokinase\"[tiab]) AND (\"AMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 5,
+  "pmids": [
+   "35641476",
+   "35271909",
+   "34320407"
+  ],
+  "titles": [
+   "PMID 35641476 (2022) PFKP alleviates glucose starvation-induced metabolic stress in lung cancer cells via AMPK-ACC2 ",
+   "PMID 35271909 (2022) Calcium/calmodulin-dependent protein kinase kinase 2 mediates pleiotropic effects of epidermal ",
+   "PMID 34320407 (2021) Selective activation of PFKL suppresses the phagocytic oxidative burst."
+  ]
+ },
+ "05": {
+  "term": "(\"PFKP\"[tiab] OR \"ATP-dependent 6-phosphofructokinase, platelet type\"[tiab] OR \"6-phosphofructokinase type C\"[tiab] OR \"Phosphofructo-1-kinase isozyme C\"[tiab] OR \"Phosphohexokinase\"[tiab]) AND (\"PEP\"[tiab] OR \"phosphoenolpyruvate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 2,
+  "pmids": [
+   "35415308",
+   "33141153"
+  ],
+  "titles": [
+   "PMID 35415308 (2022) The PCK2-glycolysis axis assists three-dimensional-stiffness maintaining stem cell osteogenesis",
+   "PMID 33141153 (2020) Biochemical and transcript level differences between the three human phosphofructokinases show "
+  ]
+ },
+ "06": {
+  "term": "(\"HK1\"[tiab] OR \"Hexokinase-1\"[tiab] OR \"Brain form hexokinase\"[tiab] OR \"Hexokinase type I\"[tiab] OR \"Hexokinase-A\"[tiab]) AND (\"glucose 6-phosphate\"[tiab] OR \"glucose-6-phosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 43,
+  "pmids": [
+   "42418707",
+   "42267741",
+   "41187334"
+  ],
+  "titles": [
+   "PMID 42418707 (2026) Hexokinase 1 facilitates post-germinative seedling growth through its catalytic function.",
+   "PMID 42267741 (2026) Phylogenetic investigation of the 100\u2009kDa hexokinase enzyme family with the topiary ancestral s",
+   "PMID 41187334 (2025) Characterization and Inhibition of Human Hexokinase Domain Containing Protein 1 Reveals an Enzy"
+  ]
+ },
+ "07": {
+  "term": "(\"GCK\"[tiab] OR \"Hexokinase-4\"[tiab] OR \"Glucokinase\"[tiab] OR \"Hexokinase type IV\"[tiab] OR \"Hexokinase-D\"[tiab]) AND (\"fructose 6-phosphate\"[tiab] OR \"fructose-6-phosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 71,
+  "pmids": [
+   "42480668",
+   "41196673",
+   "41091296"
+  ],
+  "titles": [
+   "PMID 42480668 (2026) Transcriptomic and metabolomic analyses revealed the action mechanism of nesfatin-1 gene on glu",
+   "PMID 41196673 (2025) Molecular mechanisms of metabolic dysfunction-associated steatotic liver disease (MASLD): funct",
+   "PMID 41091296 (2025) Fructose and insulin: A sweet sabotage hypothesis?"
+  ]
+ },
+ "08": {
+  "term": "(\"GCK\"[tiab] OR \"Hexokinase-4\"[tiab] OR \"Glucokinase\"[tiab] OR \"Hexokinase type IV\"[tiab] OR \"Hexokinase-D\"[tiab]) AND (\"long-chain acyl-CoA\"[tiab] OR \"palmitoyl coenzyme A\"[tiab] OR \"palmitoyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 16,
+  "pmids": [
+   "33796086",
+   "24611864",
+   "24362249"
+  ],
+  "titles": [
+   "PMID 33796086 (2021) Modulation of Gene Expression in Actinobacteria by Translational Modification of Transcriptiona",
+   "PMID 24611864 (2014) Enzogenol improves diabetes-related metabolic change in C57BL/KsJ-db/db mice, a model of type 2",
+   "PMID 24362249 (2014) Regulation of energy metabolism by long-chain fatty acids."
+  ]
+ },
+ "09": {
+  "term": "(\"PKM\"[tiab] OR \"Pyruvate kinase PKM\"[tiab] OR \"Cytosolic thyroid hormone-binding protein\"[tiab] OR \"Opa-interacting protein 3\"[tiab] OR \"Pyruvate kinase 2/3\"[tiab] OR \"Pyruvate kinase muscle isozyme\"[tiab] OR \"Threonine-protein kinase PKM2\"[tiab] OR \"Thyroid hormone-binding protein 1\"[tiab] OR \"Tumor M2-PK\"[tiab] OR \"Tyrosine-protein kinase PKM2\"[tiab] OR \"p58\"[tiab]) AND (\"FBP\"[tiab] OR \"fructose 1,6-bisphosphate\"[tiab] OR \"fructose-1,6-bisphosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 9,
+  "pmids": [
+   "38904007",
+   "38537475",
+   "36847822"
+  ],
+  "titles": [
+   "PMID 38904007 (2024) Coenzyme Q(0) inhibited the NLRP3 inflammasome, metastasis/EMT, and Warburg effect by suppressi",
+   "PMID 38537475 (2024) Cuscuta chinensis flavonoids alleviate ovarian damage in offspring female mice induced by BPA e",
+   "PMID 36847822 (2023) Coenzyme Q(0) defeats NLRP3-mediated inflammation, EMT/metastasis, and Warburg effects by inhib"
+  ]
+ },
+ "10": {
+  "term": "(\"PKM\"[tiab] OR \"Pyruvate kinase PKM\"[tiab] OR \"Cytosolic thyroid hormone-binding protein\"[tiab] OR \"Opa-interacting protein 3\"[tiab] OR \"Pyruvate kinase 2/3\"[tiab] OR \"Pyruvate kinase muscle isozyme\"[tiab] OR \"Threonine-protein kinase PKM2\"[tiab] OR \"Thyroid hormone-binding protein 1\"[tiab] OR \"Tumor M2-PK\"[tiab] OR \"Tyrosine-protein kinase PKM2\"[tiab] OR \"p58\"[tiab]) AND (\"L-serine\"[tiab] OR \"serine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 50,
+  "pmids": [
+   "42529830",
+   "42217722",
+   "40654335"
+  ],
+  "titles": [
+   "PMID 42529830 (2026) Targeting chaperone-mediated autophagy by nutritional interventions mitigates age-related cardi",
+   "PMID 42217722 (2026) Srsf7 stabilization by the PIWI-interacting RNA AB352916 enhances Pkm alternative splicing to o",
+   "PMID 40654335 (2025) SRSF7 promotes pulmonary fibrosis through regulating PKM alternative splicing in lung fibroblas"
+  ]
+ },
+ "11": {
+  "term": "(\"PKM\"[tiab] OR \"Pyruvate kinase PKM\"[tiab] OR \"Cytosolic thyroid hormone-binding protein\"[tiab] OR \"Opa-interacting protein 3\"[tiab] OR \"Pyruvate kinase 2/3\"[tiab] OR \"Pyruvate kinase muscle isozyme\"[tiab] OR \"Threonine-protein kinase PKM2\"[tiab] OR \"Thyroid hormone-binding protein 1\"[tiab] OR \"Tumor M2-PK\"[tiab] OR \"Tyrosine-protein kinase PKM2\"[tiab] OR \"p58\"[tiab]) AND (\"L-alanine\"[tiab] OR \"alanine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 13,
+  "pmids": [
+   "42737237",
+   "42710442",
+   "40822662"
+  ],
+  "titles": [
+   "PMID 42737237 (2026) Analysis of Differences in Flavor Precursors Between Fast and Slow Muscles of Turpan Black Shee",
+   "PMID 42710442 (2026) Curcumin attenuates di(2-ethylhexyl) phthalate-induced hepatic injury in chicks via oxidative s",
+   "PMID 40822662 (2025) \u03b2-Alanine decreases plasma taurine but improves nitrogen utilization efficiency in beef steers."
+  ]
+ },
+ "12": {
+  "term": "(\"PKM\"[tiab] OR \"Pyruvate kinase PKM\"[tiab] OR \"Cytosolic thyroid hormone-binding protein\"[tiab] OR \"Opa-interacting protein 3\"[tiab] OR \"Pyruvate kinase 2/3\"[tiab] OR \"Pyruvate kinase muscle isozyme\"[tiab] OR \"Threonine-protein kinase PKM2\"[tiab] OR \"Thyroid hormone-binding protein 1\"[tiab] OR \"Tumor M2-PK\"[tiab] OR \"Tyrosine-protein kinase PKM2\"[tiab] OR \"p58\"[tiab]) AND (\"L-phenylalanine\"[tiab] OR \"phenylalanine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 5,
+  "pmids": [
+   "39044234",
+   "35617695",
+   "18337592"
+  ],
+  "titles": [
+   "PMID 39044234 (2024) Palm kernel meal regulates the expression of genes involved in the amino acid metabolism in the",
+   "PMID 35617695 (2022) Modification of the 4Fe-4S Cluster Charge Transport Pathway Alters RNA Synthesis by Yeast DNA P",
+   "PMID 18337592 (2008) Effective cellular uptake and efflux of thyroid hormone by human monocarboxylate transporter 10"
+  ]
+ },
+ "13": {
+  "term": "(\"PKM\"[tiab] OR \"Pyruvate kinase PKM\"[tiab] OR \"Cytosolic thyroid hormone-binding protein\"[tiab] OR \"Opa-interacting protein 3\"[tiab] OR \"Pyruvate kinase 2/3\"[tiab] OR \"Pyruvate kinase muscle isozyme\"[tiab] OR \"Threonine-protein kinase PKM2\"[tiab] OR \"Thyroid hormone-binding protein 1\"[tiab] OR \"Tumor M2-PK\"[tiab] OR \"Tyrosine-protein kinase PKM2\"[tiab] OR \"p58\"[tiab]) AND (\"SAICAR\"[tiab] OR \"succinylaminoimidazolecarboxamide ribose-5'-phosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 0,
+  "pmids": [],
+  "titles": []
+ },
+ "14": {
+  "term": "(\"PKLR\"[tiab] OR \"Pyruvate kinase PKLR\"[tiab] OR \"Pyruvate kinase 1\"[tiab] OR \"Pyruvate kinase isozymes L/R\"[tiab] OR \"R-type/L-type pyruvate kinase\"[tiab] OR \"Red cell/liver pyruvate kinase\"[tiab]) AND (\"FBP\"[tiab] OR \"fructose 1,6-bisphosphate\"[tiab] OR \"fructose-1,6-bisphosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 4,
+  "pmids": [
+   "42049675",
+   "30578824",
+   "28407397"
+  ],
+  "titles": [
+   "PMID 42049675 (2026) Two Novel PKLR Variants in Pyruvate Kinase Deficiency: Insights From Clinical, Molecular and Fu",
+   "PMID 30578824 (2019) Distinctive regulatory properties of pyruvate kinase 1 from Aedes aegypti mosquitoes.",
+   "PMID 28407397 (2017) Whole-protein alanine-scanning mutagenesis of allostery: A large percentage of a protein can co"
+  ]
+ },
+ "15": {
+  "term": "(\"PKLR\"[tiab] OR \"Pyruvate kinase PKLR\"[tiab] OR \"Pyruvate kinase 1\"[tiab] OR \"Pyruvate kinase isozymes L/R\"[tiab] OR \"R-type/L-type pyruvate kinase\"[tiab] OR \"Red cell/liver pyruvate kinase\"[tiab]) AND (\"L-alanine\"[tiab] OR \"alanine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 8,
+  "pmids": [
+   "42642882",
+   "40431415",
+   "39917491"
+  ],
+  "titles": [
+   "PMID 42642882 (2026) Dietary eriodictyol ameliorates hyperglycemia and multi-organ damage in streptozotocin-induced ",
+   "PMID 40431415 (2025) Dietary Insulinogenic Amino Acid Restriction Improves Glucose Metabolism in a Neonatal Piglet M",
+   "PMID 39917491 (2025) Efficacy and Safety of Mitapivat in Pyruvate Kinase Deficiency: A Systematic Review and Meta-an"
+  ]
+ },
+ "16": {
+  "term": "(\"PDHA1\"[tiab] OR \"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial\"[tiab] OR \"PDHE1-A type I\"[tiab]) AND (\"acetyl coenzyme A\"[tiab] OR \"acetyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 36,
+  "pmids": [
+   "42782835",
+   "42734690",
+   "42587030"
+  ],
+  "titles": [
+   "PMID 42782835 (2026) KDM4B Maintains Pyruvate Dehydrogenase Complex Expression to Support Mitochondrial Metabolism a",
+   "PMID 42734690 (2026) A new role of iridium(III) complexes in regulating pluripotency acquisition via mitochondrial r",
+   "PMID 42587030 (2026) Crotonylation of ACAT1 K181 contributes to radioresistance by impacting lactate metabolism."
+  ]
+ },
+ "17": {
+  "term": "(\"PDHA1\"[tiab] OR \"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial\"[tiab] OR \"PDHE1-A type I\"[tiab]) AND (\"NADH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 5,
+  "pmids": [
+   "42810240",
+   "37056926",
+   "35731579"
+  ],
+  "titles": [
+   "PMID 42810240 (2027) SUMOylation of PGAM2 regulates mitochondrial metabolism and cuproptosis-related damage during b",
+   "PMID 37056926 (2023) M6A-modified circRBM33 promotes prostate cancer progression via PDHA1-mediated mitochondrial re",
+   "PMID 35731579 (2022) T Cells Mediate Kidney Tubular Injury via Impaired PDHA1 and Autophagy in Type 1 Diabetes."
+  ]
+ },
+ "18": {
+  "term": "(\"FBP1\"[tiab] OR \"Fructose-1,6-bisphosphatase 1\"[tiab] OR \"D-fructose-1,6-bisphosphate 1-phosphohydrolase 1\"[tiab] OR \"Liver FBPase\"[tiab]) AND (\"AMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 36,
+  "pmids": [
+   "42559717",
+   "42458606",
+   "40400417"
+  ],
+  "titles": [
+   "PMID 42559717 (2026) Fructose-1,6-bisphosphatase as a therapeutic target for type 2 diabetes: from molecular mechani",
+   "PMID 42458606 (2026) The howler monkey genome provides new insights into the distinctive howling and folivorous adap",
+   "PMID 40400417 (2025) The Ancient Drug Salicylate Indirectly Targets Fructose-1,6-Bisphosphatase to Suppress Liver Gl"
+  ]
+ },
+ "19": {
+  "term": "(\"FBP1\"[tiab] OR \"Fructose-1,6-bisphosphatase 1\"[tiab] OR \"D-fructose-1,6-bisphosphate 1-phosphohydrolase 1\"[tiab] OR \"Liver FBPase\"[tiab]) AND (\"F26BP\"[tiab] OR \"fructose 2,6-bisphosphate\"[tiab] OR \"fructose-2,6-P2\"[tiab] OR \"fructose-2,6-bisphosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 7,
+  "pmids": [
+   "30150719",
+   "26417114",
+   "15965961"
+  ],
+  "titles": [
+   "PMID 30150719 (2018) Metformin reduces liver glucose production by inhibition of fructose-1-6-bisphosphatase.",
+   "PMID 26417114 (2015) A new level of regulation in gluconeogenesis: metabolic state modulates the intracellular local",
+   "PMID 15965961 (2005) Novel expression of liver FBPase in Langerhans islets of human and rat pancreas."
+  ]
+ },
+ "20": {
+  "term": "(\"PC\"[tiab] OR \"Pyruvate carboxylase, mitochondrial\"[tiab] OR \"Pyruvic carboxylase\"[tiab]) AND (\"acetyl coenzyme A\"[tiab] OR \"acetyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 108,
+  "pmids": [
+   "42547019",
+   "42129486",
+   "42105410"
+  ],
+  "titles": [
+   "PMID 42547019 (2026) Integrated multi-omics analysis reveals the co-adaptive mechanisms between ruminal microbiota a",
+   "PMID 42129486 (2026) Pyruvate carboxylase promotes SREBP1a-mediated lipid synthesis in epithelial ovarian cancer.",
+   "PMID 42105410 (2026) Enhanced GABA accumulation and conversion contribute to physiological homeostasis and lipid rep"
+  ]
+ },
+ "21": {
+  "term": "(\"PC\"[tiab] OR \"Pyruvate carboxylase, mitochondrial\"[tiab] OR \"Pyruvic carboxylase\"[tiab]) AND (\"L-aspartic acid\"[tiab] OR \"aspartate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 213,
+  "pmids": [
+   "42580178",
+   "42392746",
+   "42365404"
+  ],
+  "titles": [
+   "PMID 42580178 (2026) Targeting GluN2B-containing N-methyl-D-aspartic acid receptors to alleviate excitotoxic seconda",
+   "PMID 42392746 (2026) [Anti-fibrotic effects of Prismatomeris tetrandra ethyl acetate fraction: chemical characteriza",
+   "PMID 42365404 (2026) Hepatoprotection of Jianpi Qingre Lishi prescription on non-alcoholic steatohepatitis miRNA-27/"
+  ]
+ },
+ "22": {
+  "term": "(\"CS\"[tiab] OR \"Citrate synthase, mitochondrial\"[tiab] OR \"Citrate (Si)-synthase\"[tiab]) AND (\"NADH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 87,
+  "pmids": [
+   "42700607",
+   "42140121",
+   "41962472"
+  ],
+  "titles": [
+   "PMID 42700607 (2026) Response characteristics of the symbiotic flocs system of bacteria and algae in treating Marine",
+   "PMID 42140121 (2026) Toxicogenomic assessment of 137Cs in zebrafish embryos across developmental stages using an AOP",
+   "PMID 41962472 (2026) Bio-Fenton reaction system facilitated by the H(2)O(2)-producing Desemzia sp. strain C1 degrade"
+  ]
+ },
+ "23": {
+  "term": "(\"CS\"[tiab] OR \"Citrate synthase, mitochondrial\"[tiab] OR \"Citrate (Si)-synthase\"[tiab]) AND (\"succinyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 7,
+  "pmids": [
+   "38686115",
+   "37221841",
+   "36084591"
+  ],
+  "titles": [
+   "PMID 38686115 (2024) Potato glycoside alkaloids exhibit antifungal activity by regulating the tricarboxylic acid cyc",
+   "PMID 37221841 (2023) The impact of RNA binding proteins and the associated long non-coding RNAs in the TCA cycle on ",
+   "PMID 36084591 (2023) Proteomics study of mitochondrial proteins in tilapia red meat and their effect on color change"
+  ]
+ },
+ "24": {
+  "term": "(\"IDH3A\"[tiab] OR \"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial\"[tiab] OR \"Isocitric dehydrogenase subunit alpha\"[tiab] OR \"NAD(+)-specific ICDH subunit alpha\"[tiab]) AND (\"ADP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 0,
+  "pmids": [],
+  "titles": []
+ },
+ "25": {
+  "term": "(\"IDH3A\"[tiab] OR \"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial\"[tiab] OR \"Isocitric dehydrogenase subunit alpha\"[tiab] OR \"NAD(+)-specific ICDH subunit alpha\"[tiab]) AND (\"ATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 9,
+  "pmids": [
+   "42725805",
+   "41928102",
+   "40033384"
+  ],
+  "titles": [
+   "PMID 42725805 (2026) Nuclear IDH3A Drives Transcriptional Programs in Melanoma via the YBX1-JUN/FOS Axis.",
+   "PMID 41928102 (2026) Single-cell RNA and DNA methylome profiling reveal liquid helium vitrification enhances porcine",
+   "PMID 40033384 (2025) Lysine 2-hydroxyisobutyrylation of HXK1 alters energy metabolism and K(ATP) channel function in"
+  ]
+ },
+ "26": {
+  "term": "(\"IDH3A\"[tiab] OR \"Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial\"[tiab] OR \"Isocitric dehydrogenase subunit alpha\"[tiab] OR \"NAD(+)-specific ICDH subunit alpha\"[tiab]) AND (\"NADH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 4,
+  "pmids": [
+   "37869643",
+   "36555347",
+   "35289490"
+  ],
+  "titles": [
+   "PMID 37869643 (2023) Transcriptomics and metabolomics study in mouse kidney of the molecular mechanism underlying en",
+   "PMID 36555347 (2022) Loss of Myostatin Alters Mitochondrial Oxidative Phosphorylation, TCA Cycle Activity, and ATP P",
+   "PMID 35289490 (2022) Skeletal muscle proteome expression differentiates severity of cancer cachexia in mice and iden"
+  ]
+ },
+ "27": {
+  "term": "(\"OGDH\"[tiab] OR \"2-oxoglutarate dehydrogenase complex component E1\"[tiab] OR \"2-oxoglutarate dehydrogenase, mitochondrial\"[tiab] OR \"Alpha-ketoglutarate dehydrogenase\"[tiab] OR \"Thiamine diphosphate (ThDP)-dependent 2-oxoglutarate dehydrogenase\"[tiab]) AND (\"succinyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 46,
+  "pmids": [
+   "42809718",
+   "42567988",
+   "42143323"
+  ],
+  "titles": [
+   "PMID 42809718 (2026) Alpha-ketoglutarate dehydrogenase and citric acid cycle flexibility in heart disease and failur",
+   "PMID 42567988 (2026) The mitochondria enzyme OGDH defends against disulfidptosis by licensing METTL3-regulated NRF2 ",
+   "PMID 42143323 (2026) OGDH primes macrophage for M1-like polarization and ferroptosis in sepsis associated acute lung"
+  ]
+ },
+ "28": {
+  "term": "(\"OGDH\"[tiab] OR \"2-oxoglutarate dehydrogenase complex component E1\"[tiab] OR \"2-oxoglutarate dehydrogenase, mitochondrial\"[tiab] OR \"Alpha-ketoglutarate dehydrogenase\"[tiab] OR \"Thiamine diphosphate (ThDP)-dependent 2-oxoglutarate dehydrogenase\"[tiab]) AND (\"NADH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 110,
+  "pmids": [
+   "42893408",
+   "42283631",
+   "41891495"
+  ],
+  "titles": [
+   "PMID 42893408 (2026) A Micropeptide Component of the OGDH Complex Modulates ATP Production in the TCA Cycle.",
+   "PMID 42283631 (2026) Xylose-induced tricarboxylic acid cycle activation resensitizes gentamicin-resistant Escherichi",
+   "PMID 41891495 (2026) Cardioprotective Effects of Cuminaldehyde Mitigate Isoproterenol-Induced Myocardial Infarction "
+  ]
+ },
+ "29": {
+  "term": "(\"OGDH\"[tiab] OR \"2-oxoglutarate dehydrogenase complex component E1\"[tiab] OR \"2-oxoglutarate dehydrogenase, mitochondrial\"[tiab] OR \"Alpha-ketoglutarate dehydrogenase\"[tiab] OR \"Thiamine diphosphate (ThDP)-dependent 2-oxoglutarate dehydrogenase\"[tiab]) AND (\"AMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 16,
+  "pmids": [
+   "42420223",
+   "42066110",
+   "40000477"
+  ],
+  "titles": [
+   "PMID 42420223 (2026) Interplay between Neuronal Metabolism and Signaling in Model Systems with Impaired \u03b1-Ketoglutar",
+   "PMID 42066110 (2026) Sodium dehydroacetate alleviates surface discoloration in fresh-cut lettuce by regulating energ",
+   "PMID 40000477 (2025) Ferroptosis: iron release mechanisms in the bioenergetic process."
+  ]
+ },
+ "30": {
+  "term": "(\"SDHA\"[tiab] OR \"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial\"[tiab] OR \"Flavoprotein subunit of complex II\"[tiab] OR \"Malate dehydrogenase [quinone] flavoprotein subunit\"[tiab]) AND (\"oxaloacetate\"[tiab] OR \"oxaloacetic acid\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 2,
+  "pmids": [
+   "23472183",
+   "20951673"
+  ],
+  "titles": [
+   "PMID 23472183 (2013) Malate and fumarate extend lifespan in Caenorhabditis elegans.",
+   "PMID 20951673 (2011) Biochemical and biophysical characterization of succinate: quinone reductase from Thermus therm"
+  ]
+ },
+ "31": {
+  "term": "(\"G6PD\"[tiab] OR \"Glucose-6-phosphate 1-dehydrogenase\"[tiab]) AND (\"NADPH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 496,
+  "pmids": [
+   "42915044",
+   "42901456",
+   "42887832"
+  ],
+  "titles": [
+   "PMID 42915044 (2026) A Metabolic Nanoplatform Potentiates Triple-Negative Breast Cancer Radiosensitivity via Disrupt",
+   "PMID 42901456 (2026) Integrative target fishing and proteomics reveal the molecular targets of Abrus cantoniensis in",
+   "PMID 42887832 (2026) Zuogui Wan preserves Leydig cell steroidogenesis via G6PD/NADPH/GSH-dependent ferroptosis inhib"
+  ]
+ },
+ "32": {
+  "term": "(\"G6PD\"[tiab] OR \"Glucose-6-phosphate 1-dehydrogenase\"[tiab]) AND (\"NADP\"[tiab] OR \"NADP+\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 210,
+  "pmids": [
+   "42870047",
+   "42719331",
+   "42696124"
+  ],
+  "titles": [
+   "PMID 42870047 (2026) G6PD suppresses thrombopoiesis via interfering with TMOD3-mediated actin dynamics.",
+   "PMID 42719331 (2026) Metabolic circuitry of NADH buffering reveals a vulnerability in redox-adaptive cancer cells.",
+   "PMID 42696124 (2026) NOX2/NOX4-associated oxidative stress contributes to G6PD-associated metabolic remodeling and f"
+  ]
+ },
+ "33": {
+  "term": "(\"PGD\"[tiab] OR \"6-phosphogluconate dehydrogenase, decarboxylating\"[tiab]) AND (\"NADPH\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 37,
+  "pmids": [
+   "42901456",
+   "42276385",
+   "42105867"
+  ],
+  "titles": [
+   "PMID 42901456 (2026) Integrative target fishing and proteomics reveal the molecular targets of Abrus cantoniensis in",
+   "PMID 42276385 (2026) San Wei Tan Xiang (SWTX) ameliorates depressive-like behaviors by modulating 6-phosphogluconate",
+   "PMID 42105867 (2026) A smart polymer-based nanoplatform potentiates cancer ferroptosis-immunotherapy via perturbing "
+  ]
+ },
+ "34": {
+  "term": "(\"PPAT\"[tiab] OR \"Amidophosphoribosyltransferase\"[tiab] OR \"Glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND (\"AMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 30,
+  "pmids": [
+   "42259163",
+   "41559600",
+   "40692551"
+  ],
+  "titles": [
+   "PMID 42259163 (2026) Cucurbitacin B targets PPAT to suppress de novo purine biosynthesis in esophageal squamous cell",
+   "PMID 41559600 (2026) ppAT drives glutamine-dependent purine biosynthesis and malignant progression in hepatocellular",
+   "PMID 40692551 (2025) Dietary supplementation with glutamate improves the flesh quality of gibel carp (Carassius gibe"
+  ]
+ },
+ "35": {
+  "term": "(\"PPAT\"[tiab] OR \"Amidophosphoribosyltransferase\"[tiab] OR \"Glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND (\"GMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 25,
+  "pmids": [
+   "42259163",
+   "41559600",
+   "40692551"
+  ],
+  "titles": [
+   "PMID 42259163 (2026) Cucurbitacin B targets PPAT to suppress de novo purine biosynthesis in esophageal squamous cell",
+   "PMID 41559600 (2026) ppAT drives glutamine-dependent purine biosynthesis and malignant progression in hepatocellular",
+   "PMID 40692551 (2025) Dietary supplementation with glutamate improves the flesh quality of gibel carp (Carassius gibe"
+  ]
+ },
+ "36": {
+  "term": "(\"PPAT\"[tiab] OR \"Amidophosphoribosyltransferase\"[tiab] OR \"Glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND (\"ADP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 13,
+  "pmids": [
+   "42259163",
+   "41233602",
+   "40236075"
+  ],
+  "titles": [
+   "PMID 42259163 (2026) Cucurbitacin B targets PPAT to suppress de novo purine biosynthesis in esophageal squamous cell",
+   "PMID 41233602 (2025) Uridine-sensitized screening identifies demethoxy-coenzyme Q and NUDT5 as regulators of nucleot",
+   "PMID 40236075 (2025) NUDT5 regulates purine metabolism and thiopurine sensitivity by interacting with PPAT."
+  ]
+ },
+ "37": {
+  "term": "(\"PPAT\"[tiab] OR \"Amidophosphoribosyltransferase\"[tiab] OR \"Glutamine phosphoribosylpyrophosphate amidotransferase\"[tiab]) AND (\"PRPP\"[tiab] OR \"phosphoribosyl pyrophosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 47,
+  "pmids": [
+   "42457960",
+   "42259163",
+   "41756441"
+  ],
+  "titles": [
+   "PMID 42457960 (2026) Metabolite glues as a means of purine sensing and chemotherapeutic response.",
+   "PMID 42259163 (2026) Cucurbitacin B targets PPAT to suppress de novo purine biosynthesis in esophageal squamous cell",
+   "PMID 41756441 (2026) De novo purine synthesis reprograms the macrophage inflammatory response and the immune respons"
+  ]
+ },
+ "38": {
+  "term": "(\"PRPS1\"[tiab] OR \"Ribose-phosphate pyrophosphokinase 1\"[tiab] OR \"PPRibP\"[tiab] OR \"Phosphoribosyl pyrophosphate synthetase subunit I\"[tiab]) AND (\"ADP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 7,
+  "pmids": [
+   "40295500",
+   "37248548",
+   "36742181"
+  ],
+  "titles": [
+   "PMID 40295500 (2025) PRPS2 enhances RNA m(6)A methylation by stimulating SAM synthesis through enzyme-dependent and ",
+   "PMID 37248548 (2023) Structural basis of human PRPS2 filaments.",
+   "PMID 36742181 (2023) PRPS2 mutations drive acute lymphoblastic leukemia relapse through influencing PRPS1/2 hexamer "
+  ]
+ },
+ "39": {
+  "term": "(\"PRPS1\"[tiab] OR \"Ribose-phosphate pyrophosphokinase 1\"[tiab] OR \"PPRibP\"[tiab] OR \"Phosphoribosyl pyrophosphate synthetase subunit I\"[tiab]) AND (\"GDP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 4,
+  "pmids": [
+   "40295500",
+   "36742181",
+   "2169413"
+  ],
+  "titles": [
+   "PMID 40295500 (2025) PRPS2 enhances RNA m(6)A methylation by stimulating SAM synthesis through enzyme-dependent and ",
+   "PMID 36742181 (2023) PRPS2 mutations drive acute lymphoblastic leukemia relapse through influencing PRPS1/2 hexamer ",
+   "PMID 2169413 (1990) Purification and properties of phosphoribosyl-diphosphate synthetase from Bacillus subtilis."
+  ]
+ },
+ "40": {
+  "term": "(\"PRPS1\"[tiab] OR \"Ribose-phosphate pyrophosphokinase 1\"[tiab] OR \"PPRibP\"[tiab] OR \"Phosphoribosyl pyrophosphate synthetase subunit I\"[tiab]) AND (\"Pi\"[tiab] OR \"phosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 34,
+  "pmids": [
+   "40524054",
+   "40446642",
+   "40404919"
+  ],
+  "titles": [
+   "PMID 40524054 (2025) Transcriptomic analysis to identify differentially expressed genes of abdominal fat (AF) and br",
+   "PMID 40446642 (2025) PRPS activity tunes redox homeostasis in Myc-driven lymphoma.",
+   "PMID 40404919 (2025) NDUFS3 promotes proliferation via glucose metabolism reprogramming inducing AMPK phosphorylatin"
+  ]
+ },
+ "41": {
+  "term": "(\"IMPDH2\"[tiab] OR \"Inosine-5'-monophosphate dehydrogenase 2\"[tiab] OR \"Inosine-5'-monophosphate dehydrogenase type II\"[tiab]) AND (\"GTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 44,
+  "pmids": [
+   "42947189",
+   "42818226",
+   "42743735"
+  ],
+  "titles": [
+   "PMID 42947189 (2026) BTBD9-driven IMPDH2 ubiquitination governs sleep homeostasis by gating adenosine metabolism in ",
+   "PMID 42818226 (2026) GTP biosynthesis is a therapeutic vulnerability in Rac1-mutant melanoma.",
+   "PMID 42743735 (2026) Ubiquitin-proteasome-dependent IMPDH2 degradation regulated by ANKRD9 controls myogenic differe"
+  ]
+ },
+ "42": {
+  "term": "(\"IMPDH2\"[tiab] OR \"Inosine-5'-monophosphate dehydrogenase 2\"[tiab] OR \"Inosine-5'-monophosphate dehydrogenase type II\"[tiab]) AND (\"ATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 5,
+  "pmids": [
+   "42351973",
+   "39826875",
+   "39131357"
+  ],
+  "titles": [
+   "PMID 42351973 (2026) Melatonin Mitigates Vitrification-Induced Cryoinjury in Mouse Embryos by Alleviating Metabolic ",
+   "PMID 39826875 (2025) Site-Specific Competitive Kinase Inhibitor Target Profiling Using Phosphonate Affinity Tags.",
+   "PMID 39131357 (2024) Appendage regeneration requires IMPDH2 and creates a sensitized environment for enzyme filament"
+  ]
+ },
+ "43": {
+  "term": "(\"ADSS2\"[tiab] OR \"Adenylosuccinate synthetase isozyme 2\"[tiab] OR \"Adenylosuccinate synthetase, acidic isozyme\"[tiab] OR \"Adenylosuccinate synthetase, liver isozyme\"[tiab] OR \"IMP--aspartate ligase 2\"[tiab]) AND (\"GTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 0,
+  "pmids": [],
+  "titles": []
+ },
+ "44": {
+  "term": "(\"CAD\"[tiab] OR \"Multifunctional protein CAD\"[tiab] OR \"Carbamoyl phosphate synthetase 2-aspartate transcarbamylase-dihydroorotase\"[tiab]) AND (\"UTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 18,
+  "pmids": [
+   "36532779",
+   "25678555",
+   "25422319"
+  ],
+  "titles": [
+   "PMID 36532779 (2022) Loss-of-function N178T variant of the human P2Y(4) receptor is associated with decreased severi",
+   "PMID 25678555 (2015) Biallelic mutations in CAD, impair de novo pyrimidine biosynthesis and decrease glycosylation p",
+   "PMID 25422319 (2015) Rheb protein binds CAD (carbamoyl-phosphate synthetase 2, aspartate transcarbamoylase, and dihy"
+  ]
+ },
+ "45": {
+  "term": "(\"CAD\"[tiab] OR \"Multifunctional protein CAD\"[tiab] OR \"Carbamoyl phosphate synthetase 2-aspartate transcarbamylase-dihydroorotase\"[tiab]) AND (\"PRPP\"[tiab] OR \"phosphoribosyl pyrophosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 9,
+  "pmids": [
+   "38743960",
+   "14651476",
+   "11872754"
+  ],
+  "titles": [
+   "PMID 38743960 (2024) The emerging roles of glutamine amidotransferases in metabolism and immune defense.",
+   "PMID 14651476 (2004) Substitutions in hamster CAD carbamoyl-phosphate synthetase alter allosteric response to 5-phos",
+   "PMID 11872754 (2002) Growth-dependent regulation of mammalian pyrimidine biosynthesis by the protein kinase A and MA"
+  ]
+ },
+ "46": {
+  "term": "(\"CTPS2\"[tiab] OR \"CTP synthase 2\"[tiab] OR \"CTP synthetase 2\"[tiab] OR \"UTP--ammonia ligase 2\"[tiab]) AND (\"CTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 21,
+  "pmids": [
+   "41933137",
+   "40957650",
+   "38438357"
+  ],
+  "titles": [
+   "PMID 41933137 (2026) Spliceosomal component SNRPE drives cell proliferation by regulating CTP synthase 1 mRNA splici",
+   "PMID 40957650 (2025) CTPS2 regulates CTP synthetase activity by interacting with CTPS1.",
+   "PMID 38438357 (2024) Inactivation of cytidine triphosphate synthase 1 prevents fatal auto-immunity in mice."
+  ]
+ },
+ "47": {
+  "term": "(\"CTPS2\"[tiab] OR \"CTP synthase 2\"[tiab] OR \"CTP synthetase 2\"[tiab] OR \"UTP--ammonia ligase 2\"[tiab]) AND (\"GTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 0,
+  "pmids": [],
+  "titles": []
+ },
+ "48": {
+  "term": "(\"RRM1\"[tiab] OR \"Ribonucleoside-diphosphate reductase large subunit\"[tiab] OR \"Ribonucleoside-diphosphate reductase subunit M1\"[tiab] OR \"Ribonucleotide reductase large subunit\"[tiab]) AND (\"dATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 7,
+  "pmids": [
+   "41173392",
+   "40244665",
+   "39360631"
+  ],
+  "titles": [
+   "PMID 41173392 (2025) Dihydroxyacetone decreases the dATP pool, inducing replication stress and genomic instability i",
+   "PMID 40244665 (2025) RRM2B deficiency causes dATP and dGTP depletion through enhanced degradation and slower synthes",
+   "PMID 39360631 (2024) Altered dNTP pools accelerate tumor formation in mice."
+  ]
+ },
+ "49": {
+  "term": "(\"RRM1\"[tiab] OR \"Ribonucleoside-diphosphate reductase large subunit\"[tiab] OR \"Ribonucleoside-diphosphate reductase subunit M1\"[tiab] OR \"Ribonucleotide reductase large subunit\"[tiab]) AND (\"ATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 11,
+  "pmids": [
+   "37802848",
+   "37370548",
+   "33441818"
+  ],
+  "titles": [
+   "PMID 37802848 (2023) [Mechanism of Astragali Radix-Curcumae Rhizoma in treating gastric cancer based on network phar",
+   "PMID 37370548 (2023) Potential Role of Ribonucleotide Reductase Enzyme in Mitochondria Function and Woody Breast Con",
+   "PMID 33441818 (2021) Tethering-induced destabilization and ATP-binding for tandem RRM domains of ALS-causing TDP-43 "
+  ]
+ },
+ "50": {
+  "term": "(\"RRM1\"[tiab] OR \"Ribonucleoside-diphosphate reductase large subunit\"[tiab] OR \"Ribonucleoside-diphosphate reductase subunit M1\"[tiab] OR \"Ribonucleotide reductase large subunit\"[tiab]) AND (\"dGTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 2,
+  "pmids": [
+   "40244665",
+   "39360631"
+  ],
+  "titles": [
+   "PMID 40244665 (2025) RRM2B deficiency causes dATP and dGTP depletion through enhanced degradation and slower synthes",
+   "PMID 39360631 (2024) Altered dNTP pools accelerate tumor formation in mice."
+  ]
+ },
+ "51": {
+  "term": "(\"RRM1\"[tiab] OR \"Ribonucleoside-diphosphate reductase large subunit\"[tiab] OR \"Ribonucleoside-diphosphate reductase subunit M1\"[tiab] OR \"Ribonucleotide reductase large subunit\"[tiab]) AND (\"dTTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 2,
+  "pmids": [
+   "40244665",
+   "40155654"
+  ],
+  "titles": [
+   "PMID 40244665 (2025) RRM2B deficiency causes dATP and dGTP depletion through enhanced degradation and slower synthes",
+   "PMID 40155654 (2025) RRM1 O-GlcNAcylation inhibition suppresses pancreatic cancer via TK1-mediated replication stres"
+  ]
+ },
+ "52": {
+  "term": "(\"TK1\"[tiab] OR \"Thymidine kinase, cytosolic\"[tiab]) AND (\"dTTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 21,
+  "pmids": [
+   "41695474",
+   "40155654",
+   "34906077"
+  ],
+  "titles": [
+   "PMID 41695474 (2026) Harnessing nucleotide metabolism to control glycosylase base editing outcomes.",
+   "PMID 40155654 (2025) RRM1 O-GlcNAcylation inhibition suppresses pancreatic cancer via TK1-mediated replication stres",
+   "PMID 34906077 (2021) Molecular characterization of equine thymidine kinase 1 and preliminary evaluation of its suita"
+  ]
+ },
+ "53": {
+  "term": "(\"DCK\"[tiab] OR \"Deoxycytidine kinase\"[tiab] OR \"Deoxyadenosine kinase\"[tiab] OR \"Deoxyguanosine kinase\"[tiab]) AND (\"dCTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 77,
+  "pmids": [
+   "39710854",
+   "32768643",
+   "30940660"
+  ],
+  "titles": [
+   "PMID 39710854 (2025) Blocking Deoxycytidine Kinase in Activated Lymphocytes Depletes Deoxycytidine Triphosphate Pool",
+   "PMID 32768643 (2021) Effects of Acanthopanax senticosus (Rupr. & Maxim.) Harms on cerebral ischemia-reperfusion inju",
+   "PMID 30940660 (2019) Molecular Imaging of Deoxycytidine Kinase Activity Using Deoxycytidine-Enhanced CEST MRI."
+  ]
+ },
+ "54": {
+  "term": "(\"PHGDH\"[tiab] OR \"D-3-phosphoglycerate dehydrogenase\"[tiab] OR \"2-oxoglutarate reductase\"[tiab] OR \"Malate dehydrogenase\"[tiab]) AND (\"L-serine\"[tiab] OR \"serine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 447,
+  "pmids": [
+   "42949656",
+   "42934238",
+   "42918465"
+  ],
+  "titles": [
+   "PMID 42949656 (2026) PHGDH-Mediated Serine Metabolism in Nucleus Pulposus Cells Is a Potential Therapeutic Target fo",
+   "PMID 42934238 (2026) SIRP\u03b3 promotes CD8\u207a T cell exhaustion via metabolic-epigenetic reprogramming in tuberculous ple",
+   "PMID 42918465 (2026) Targeting Macrophage Glycolytic-Serine Metabolism and NF-\u03baB Activation by Compound Xiancao Gran"
+  ]
+ },
+ "55": {
+  "term": "(\"GLS\"[tiab] OR \"Glutaminase kidney isoform, mitochondrial\"[tiab] OR \"K-glutaminase\"[tiab] OR \"L-glutamine amidohydrolase\"[tiab]) AND (\"Pi\"[tiab] OR \"phosphate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 64,
+  "pmids": [
+   "42905544",
+   "42762607",
+   "42215456"
+  ],
+  "titles": [
+   "PMID 42905544 (2026) Mitochondrial subpopulations promote cellular responses to changes in metabolic demand and sign",
+   "PMID 42762607 (2026) Metabolic Reprogramming Of Macrophages In Breast Cancer: Mechanisms And Therapeutic Implication",
+   "PMID 42215456 (2026) Cardiotoxicity induced by multiple myeloma therapies: mechanistic convergence across proteasome"
+  ]
+ },
+ "56": {
+  "term": "(\"GLS\"[tiab] OR \"Glutaminase kidney isoform, mitochondrial\"[tiab] OR \"K-glutaminase\"[tiab] OR \"L-glutamine amidohydrolase\"[tiab]) AND (\"L-glutamic acid\"[tiab] OR \"glutamate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 216,
+  "pmids": [
+   "42905544",
+   "42803128",
+   "42742886"
+  ],
+  "titles": [
+   "PMID 42905544 (2026) Mitochondrial subpopulations promote cellular responses to changes in metabolic demand and sign",
+   "PMID 42803128 (2026) HDAC4 Promotes Cancer Stemness in Nonsmall Cell Lung Cancer by Upregulating SLC38A2 Expression ",
+   "PMID 42742886 (2026) HGF/c-MET signaling induces glutamine metabolism in MET-amplified head and neck squamous cell c"
+  ]
+ },
+ "57": {
+  "term": "(\"GLUD1\"[tiab] OR \"Glutamate dehydrogenase 1, mitochondrial\"[tiab]) AND (\"GTP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 29,
+  "pmids": [
+   "38673928",
+   "36695547",
+   "35951311"
+  ],
+  "titles": [
+   "PMID 38673928 (2024) Evolutionary Changes in Primate Glutamate Dehydrogenases 1 and 2 Influence the Protein Regulati",
+   "PMID 36695547 (2023) Hyperinsulinism/hyperammonemia syndrome caused by biallelic SLC25A36 mutation.",
+   "PMID 35951311 (2023) Spectrum of neuro-developmental disorders in children with congenital hyperinsulinism due to ac"
+  ]
+ },
+ "58": {
+  "term": "(\"GLUD1\"[tiab] OR \"Glutamate dehydrogenase 1, mitochondrial\"[tiab]) AND (\"ADP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 23,
+  "pmids": [
+   "41895093",
+   "36455296",
+   "32143698"
+  ],
+  "titles": [
+   "PMID 41895093 (2026) Echinacoside modulates PARP14-GLUD1 axis to mediate energy metabolism reprogramming and mitocho",
+   "PMID 36455296 (2022) Evaluation of decursin and its isomer decursinol angelate as potential inhibitors of human glut",
+   "PMID 32143698 (2020) Hyperinsulinism associated with GLUD1 mutation: allosteric regulation and functional characteri"
+  ]
+ },
+ "59": {
+  "term": "(\"GLUD1\"[tiab] OR \"Glutamate dehydrogenase 1, mitochondrial\"[tiab]) AND (\"L-leucine\"[tiab] OR \"leucine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 25,
+  "pmids": [
+   "39446525",
+   "36476334",
+   "31400387"
+  ],
+  "titles": [
+   "PMID 39446525 (2025) Glutamate dehydrogenase 1-catalytic glutaminolysis feedback activates EGFR/PI3K/AKT pathway and",
+   "PMID 36476334 (2023) Hyperinsulinism-hyperammonemia syndrome in two Peruvian children with refractory epilepsy.",
+   "PMID 31400387 (2019) Transgenic expression of the positive selected human GLUD2 gene improves in vivo glucose homeos"
+  ]
+ },
+ "60": {
+  "term": "(\"GLUD1\"[tiab] OR \"Glutamate dehydrogenase 1, mitochondrial\"[tiab]) AND (\"long-chain acyl-CoA\"[tiab] OR \"palmitoyl coenzyme A\"[tiab] OR \"palmitoyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 1,
+  "pmids": [
+   "25317244"
+  ],
+  "titles": [
+   "PMID 25317244 (2014) Molecular mechanisms of protein induced hyperinsulinaemic hypoglycaemia."
+  ]
+ },
+ "61": {
+  "term": "(\"CBS\"[tiab] OR \"Cystathionine beta-synthase\"[tiab] OR \"Beta-thionase\"[tiab] OR \"Serine sulfhydrase\"[tiab]) AND (\"AdoMet\"[tiab] OR \"S-adenosyl-L-methionine\"[tiab] OR \"S-adenosylmethionine\"[tiab] OR \"SAM\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 208,
+  "pmids": [
+   "42926026",
+   "42904577",
+   "42874925"
+  ],
+  "titles": [
+   "PMID 42926026 (2026) Cystathionine beta-synthase alleviates intervertebral disc degeneration by inhibiting ferroptos",
+   "PMID 42904577 (2026) Biocatalytic synthesis of S-adenosyl-l-methionine analogues for allosteric activation of cystat",
+   "PMID 42874925 (2026) Short-term methionine starvation reshapes diurnal hepatic m6A RNA methylation."
+  ]
+ },
+ "62": {
+  "term": "(\"MAT2A\"[tiab] OR \"S-adenosylmethionine synthase isoform type-2\"[tiab] OR \"Methionine adenosyltransferase 2\"[tiab] OR \"Methionine adenosyltransferase II\"[tiab]) AND (\"AdoMet\"[tiab] OR \"S-adenosyl-L-methionine\"[tiab] OR \"S-adenosylmethionine\"[tiab] OR \"SAM\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 203,
+  "pmids": [
+   "42892768",
+   "42874925",
+   "42772218"
+  ],
+  "titles": [
+   "PMID 42892768 (2026) Targeting the MAT2A-SAM axis increases platinum sensitivity in ovarian cancer by impairing DNA ",
+   "PMID 42874925 (2026) Short-term methionine starvation reshapes diurnal hepatic m6A RNA methylation.",
+   "PMID 42772218 (2026) From biomass side-product to nano-therapeutics: Characterization and anti-colitis efficacy of c"
+  ]
+ },
+ "63": {
+  "term": "(\"ACACB\"[tiab] OR \"Acetyl-CoA carboxylase 2\"[tiab] OR \"ACC-beta\"[tiab]) AND (\"citrate\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 7,
+  "pmids": [
+   "37201074",
+   "26043180",
+   "24740690"
+  ],
+  "titles": [
+   "PMID 37201074 (2023) Identification of glutamyl-prolyl-tRNA synthetase as a new therapeutic target in hepatocellular",
+   "PMID 26043180 (2015) Acetyl CoA carboxylase inactivation and meiotic maturation in mouse oocytes.",
+   "PMID 24740690 (2014) Human acetyl-CoA carboxylase 2 expressed in silkworm Bombyx mori exhibits posttranslational bio"
+  ]
+ },
+ "64": {
+  "term": "(\"ACACB\"[tiab] OR \"Acetyl-CoA carboxylase 2\"[tiab] OR \"ACC-beta\"[tiab]) AND (\"long-chain acyl-CoA\"[tiab] OR \"palmitoyl coenzyme A\"[tiab] OR \"palmitoyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 6,
+  "pmids": [
+   "34454928",
+   "31412267",
+   "31118835"
+  ],
+  "titles": [
+   "PMID 34454928 (2021) Acetyl-CoA carboxylase 2 inhibition reduces skeletal muscle bioactive lipid content and attenua",
+   "PMID 31412267 (2019) Liraglutide improves insulin sensitivity in high fat diet induced diabetic mice through multipl",
+   "PMID 31118835 (2019) Bioactive fraction from Lagerstroemia speciosa leaves (DLBS3733) reduces fat droplet by inhibit"
+  ]
+ },
+ "65": {
+  "term": "(\"CPT1A\"[tiab] OR \"Carnitine O-palmitoyltransferase 1, liver isoform\"[tiab] OR \"Carnitine O-palmitoyltransferase I, liver isoform\"[tiab] OR \"Carnitine palmitoyltransferase 1A\"[tiab] OR \"Succinyltransferase CPT1A\"[tiab]) AND (\"malonyl-CoA\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 38,
+  "pmids": [
+   "42847170",
+   "42681939",
+   "41274422"
+  ],
+  "titles": [
+   "PMID 42847170 (2026) Photo-downregulation of SIRT4 mitigates aging in mice by enhancing H3K9ac via fatty acid metabo",
+   "PMID 42681939 (2026) CPT1A through succinylation regulates the CTCF/LINC01503\u201291aa feedback loop to promote gemcitab",
+   "PMID 41274422 (2026) Rewiring lipid Metabolism: The central role of CPT1 in metabolic dysfunction."
+  ]
+ },
+ "66": {
+  "term": "(\"HMGCR\"[tiab] OR \"3-hydroxy-3-methylglutaryl-coenzyme A reductase\"[tiab]) AND (\"lanosterol\"[tiab] OR \"sterol\"[tiab] OR \"sterol / lanosterol\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 717,
+  "pmids": [
+   "42931665",
+   "42763787",
+   "42746096"
+  ],
+  "titles": [
+   "PMID 42931665 (2026) Perinatal Bisphenol S Exposure Induces Hepatotoxicity in Female Rat Offspring: Insights into Di",
+   "PMID 42763787 (2026) Statins as Repurposed Anticancer Agents: Regulated Cell Death, the Tumor Immune Microenvironmen",
+   "PMID 42746096 (2026) Natural product-based therapeutic strategies against Leishmania: mechanistic insights and emerg"
+  ]
+ },
+ "67": {
+  "term": "(\"CPS1\"[tiab] OR \"Carbamoyl-phosphate synthase [ammonia], mitochondrial\"[tiab] OR \"Carbamoyl-phosphate synthetase I\"[tiab]) AND (\"N-acetyl-L-glutamic acid\"[tiab] OR \"N-acetylglutamate\"[tiab] OR \"NAG\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 38,
+  "pmids": [
+   "42111264",
+   "38740568",
+   "38637895"
+  ],
+  "titles": [
+   "PMID 42111264 (2026) Activation of mitochondrial CPS1 promotes dormant ovarian follicle activation via arginine elev",
+   "PMID 38740568 (2024) Use of pure recombinant human enzymes to assess the disease-causing potential of missense mutat",
+   "PMID 38637895 (2024) The efficacy of Carbamylglutamate impacts the nutritional management of patients with N-Acetylg"
+  ]
+ },
+ "68": {
+  "term": "(\"PRKAG1\"[tiab] OR \"5'-AMP-activated protein kinase subunit gamma-1\"[tiab]) AND (\"AMP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 18,
+  "pmids": [
+   "41612594",
+   "37957359",
+   "35965125"
+  ],
+  "titles": [
+   "PMID 41612594 (2026) PRKAB2 as a tumor suppressor in renal cell carcinoma: inhibiting mitophagy via the LRPPRC-PRKN/",
+   "PMID 37957359 (2023) Refeeding-associated AMPK(\u03b31) complex activity is a hallmark of health and longevity.",
+   "PMID 35965125 (2022) Effect of arginine supplementation on the production of milk fat in dairy cows."
+  ]
+ },
+ "69": {
+  "term": "(\"PRKAG1\"[tiab] OR \"5'-AMP-activated protein kinase subunit gamma-1\"[tiab]) AND (\"ADP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 1,
+  "pmids": [
+   "41612594"
+  ],
+  "titles": [
+   "PMID 41612594 (2026) PRKAB2 as a tumor suppressor in renal cell carcinoma: inhibiting mitophagy via the LRPPRC-PRKN/"
+  ]
+ },
+ "70": {
+  "term": "(\"PRKAG1\"[tiab] OR \"5'-AMP-activated protein kinase subunit gamma-1\"[tiab]) AND (\"ATP\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 6,
+  "pmids": [
+   "41612594",
+   "33271223",
+   "20881209"
+  ],
+  "titles": [
+   "PMID 41612594 (2026) PRKAB2 as a tumor suppressor in renal cell carcinoma: inhibiting mitophagy via the LRPPRC-PRKN/",
+   "PMID 33271223 (2021) Adiponectin enhances the bioenergetics of cardiac myocytes via an AMPK- and succinate dehydroge",
+   "PMID 20881209 (2011) The AMPK\u03b31 subunit plays an essential role in erythrocyte membrane elasticity, and its genetic "
+  ]
+ },
+ "71": {
+  "term": "(\"SESN2\"[tiab] OR \"Sestrin-2\"[tiab] OR \"Hypoxia-induced gene\"[tiab]) AND (\"L-leucine\"[tiab] OR \"leucine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 12,
+  "pmids": [
+   "42353504",
+   "41471815",
+   "41329159"
+  ],
+  "titles": [
+   "PMID 42353504 (2026) Multi-Omics Integration Reveals Synergistic Metabolic Rewiring Underpinning Growth Acceleration",
+   "PMID 41471815 (2025) Allosteric Conformational Locking of Sestrin2 by Leucine: An Integrated Computational Analysis ",
+   "PMID 41329159 (2025) Sestrin 2 Regulates Milk Protein Synthesis through a LAT1/mTOR Pathway."
+  ]
+ },
+ "72": {
+  "term": "(\"CASTOR1\"[tiab] OR \"Cytosolic arginine sensor for mTORC1 subunit 1\"[tiab] OR \"Cellular arginine sensor for mTORC1 protein 1\"[tiab] OR \"GATS-like protein 3\"[tiab]) AND (\"L-arginine\"[tiab] OR \"arginine\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 35,
+  "pmids": [
+   "42913021",
+   "42695806",
+   "42168145"
+  ],
+  "titles": [
+   "PMID 42913021 (2026) CASTOR1 functional inactivation drives KRAS-mutant NSCLC and therapy resistance by a noncanonic",
+   "PMID 42695806 (2026) CASTOR1 Regulates Humoral Immune Responses and Contributes to the Pathogenesis of Systemic Lupu",
+   "PMID 42168145 (2026) TP53 mutations in triple-negative breast cancer cells confer sensitivity to ASCT2 inhibition vi"
+  ]
+ },
+ "73": {
+  "term": "(\"SAMTOR\"[tiab] OR \"S-adenosylmethionine sensor upstream of mTORC1\"[tiab] OR \"Probable methyltransferase BMT2 homolog\"[tiab]) AND (\"AdoMet\"[tiab] OR \"S-adenosyl-L-methionine\"[tiab] OR \"S-adenosylmethionine\"[tiab] OR \"SAM\"[tiab]) AND (allosteric[tiab] OR inhibit*[tiab] OR activat*[tiab] OR kinetic*[tiab] OR regulat*[tiab])",
+  "count": 15,
+  "pmids": [
+   "42942953",
+   "42892768",
+   "42553046"
+  ],
+  "titles": [
+   "PMID 42942953 (2026) Dietary Sulfur Amino Acid Sensing and Metabolic Adaptation: From the GCN2-ATF4-FGF21 Axis to Tr",
+   "PMID 42892768 (2026) Targeting the MAT2A-SAM axis increases platinum sensitivity in ovarian cancer by impairing DNA ",
+   "PMID 42553046 (2026) NNMT Loss Drives Cancer Progression by enhancing SAM availability for mTORC1 Signaling and Chro"
+  ]
+ }
+}

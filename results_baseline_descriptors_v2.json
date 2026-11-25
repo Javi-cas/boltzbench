@@ -1,0 +1,183 @@
+{
+ "mw": {
+  "pairs": 32,
+  "mean_beats_decoys": 0.8541666666666666,
+  "p_one_sided": 0.0,
+  "top1": 24
+ },
+ "heavy_atoms": {
+  "pairs": 32,
+  "mean_beats_decoys": 0.8229166666666666,
+  "p_one_sided": 0.0,
+  "top1": 21
+ },
+ "phosphorus": {
+  "pairs": 32,
+  "mean_beats_decoys": 0.7291666666666666,
+  "p_one_sided": 5e-05,
+  "top1": 20
+ },
+ "boltz_p_binder_for_comparison": 0.765625,
+ "per_pair_mw": [
+  {
+   "protein": "ACACB",
+   "regulator": "CIT",
+   "mw_beats": 0.6666666666666666
+  },
+  {
+   "protein": "ACACB",
+   "regulator": "PKZ",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "ADSS2",
+   "regulator": "GTP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "CPT1A",
+   "regulator": "MLC",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "CS",
+   "regulator": "NAI",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "CS",
+   "regulator": "SCA",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "CTPS2",
+   "regulator": "GTP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "DCK",
+   "regulator": "DCP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "FBP1",
+   "regulator": "FDP",
+   "mw_beats": 0.6666666666666666
+  },
+  {
+   "protein": "G6PD",
+   "regulator": "NDP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "GCK",
+   "regulator": "PKZ",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "GLUD1",
+   "regulator": "PKZ",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "HMGCR",
+   "regulator": "LAN",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "SCA",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "NAI",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "OGDH",
+   "regulator": "AMP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PC",
+   "regulator": "ASP",
+   "mw_beats": 0.3333333333333333
+  },
+  {
+   "protein": "PDHA1",
+   "regulator": "ACO",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PDHA1",
+   "regulator": "NAI",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "CIT",
+   "mw_beats": 0.6666666666666666
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "FDP",
+   "mw_beats": 0.6666666666666666
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "AMP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PFKP",
+   "regulator": "PEP",
+   "mw_beats": 0.3333333333333333
+  },
+  {
+   "protein": "PGD",
+   "regulator": "NDP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PHGDH",
+   "regulator": "SER",
+   "mw_beats": 0.0
+  },
+  {
+   "protein": "PKLR",
+   "regulator": "ALA",
+   "mw_beats": 0.0
+  },
+  {
+   "protein": "PKM",
+   "regulator": "SSS",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "5GP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "ADP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "PPAT",
+   "regulator": "PRP",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "RRM1",
+   "regulator": "DGT",
+   "mw_beats": 1.0
+  },
+  {
+   "protein": "SAMTOR",
+   "regulator": "SAM",
+   "mw_beats": 1.0
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+# prediction (see README)
+boltz==2.0.3
+
+# analysis and figures
+numpy
+matplotlib
+rdkit

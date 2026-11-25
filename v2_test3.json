@@ -1,0 +1,1286 @@
+{
+ "01": {
+  "chembl_targets": [
+   "CHEMBL2972"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q01813"
+ },
+ "02": {
+  "chembl_targets": [
+   "CHEMBL2972"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1261"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q01813"
+ },
+ "03": {
+  "chembl_targets": [
+   "CHEMBL2972"
+  ],
+  "chembl_molecules": [],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q01813"
+ },
+ "04": {
+  "chembl_targets": [
+   "CHEMBL2972"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q01813"
+ },
+ "05": {
+  "chembl_targets": [
+   "CHEMBL2972"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1235228"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q01813"
+ },
+ "06": {
+  "chembl_targets": [
+   "CHEMBL2688"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1159525",
+   "CHEMBL257975",
+   "CHEMBL4283156",
+   "CHEMBL4296692"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 5,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P19367"
+ },
+ "07": {
+  "chembl_targets": [
+   "CHEMBL3820",
+   "CHEMBL3885579"
+  ],
+  "chembl_molecules": [
+   "CHEMBL604196"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 177,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P35557"
+ },
+ "08": {
+  "chembl_targets": [
+   "CHEMBL3820",
+   "CHEMBL3885579"
+  ],
+  "chembl_molecules": [
+   "CHEMBL3904487"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 177,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P35557"
+ },
+ "09": {
+  "chembl_targets": [
+   "CHEMBL1075189"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1089962",
+   "CHEMBL2111113",
+   "CHEMBL97893"
+  ],
+  "chembl_hits": 9,
+  "chembl_types": [
+   "AC50",
+   "Activity",
+   "EC50",
+   "FC",
+   "Km",
+   "Vmax",
+   "max activation"
+  ],
+  "chembl_examples": [
+   "CHEMBL1089962 Activity=None",
+   "CHEMBL1089962 FC=10.0",
+   "CHEMBL1089962 Vmax=255.0pmol/min"
+  ],
+  "bindingdb_records": 41,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P14618"
+ },
+ "10": {
+  "chembl_targets": [
+   "CHEMBL1075189"
+  ],
+  "chembl_molecules": [
+   "CHEMBL11298",
+   "CHEMBL285123",
+   "CHEMBL4650463"
+  ],
+  "chembl_hits": 1,
+  "chembl_types": [
+   "EC50"
+  ],
+  "chembl_examples": [
+   "CHEMBL11298 EC50=1300000.0nM"
+  ],
+  "bindingdb_records": 41,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P14618"
+ },
+ "11": {
+  "chembl_targets": [
+   "CHEMBL1075189"
+  ],
+  "chembl_molecules": [
+   "CHEMBL279597",
+   "CHEMBL66693"
+  ],
+  "chembl_hits": 1,
+  "chembl_types": [
+   "Inhibition"
+  ],
+  "chembl_examples": [
+   "CHEMBL279597 Inhibition=100.0%"
+  ],
+  "bindingdb_records": 41,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P14618"
+ },
+ "12": {
+  "chembl_targets": [
+   "CHEMBL1075189"
+  ],
+  "chembl_molecules": [
+   "CHEMBL25080",
+   "CHEMBL301523",
+   "CHEMBL379630"
+  ],
+  "chembl_hits": 4,
+  "chembl_types": [
+   "IC50",
+   "Inhibition"
+  ],
+  "chembl_examples": [
+   "CHEMBL301523 Inhibition=100.0%",
+   "CHEMBL25080 IC50=240000.0nM",
+   "CHEMBL301523 IC50=0.055nM"
+  ],
+  "bindingdb_records": 41,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P14618"
+ },
+ "13": {
+  "chembl_targets": [
+   "CHEMBL1075189"
+  ],
+  "chembl_molecules": [],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 41,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P14618"
+ },
+ "14": {
+  "chembl_targets": [
+   "CHEMBL1075126"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1089962",
+   "CHEMBL2111113",
+   "CHEMBL97893"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 3,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P30613"
+ },
+ "15": {
+  "chembl_targets": [
+   "CHEMBL1075126"
+  ],
+  "chembl_molecules": [
+   "CHEMBL279597",
+   "CHEMBL66693"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 3,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P30613"
+ },
+ "16": {
+  "chembl_targets": [
+   "CHEMBL2092"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230809"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P08559"
+ },
+ "17": {
+  "chembl_targets": [
+   "CHEMBL2092"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1161866",
+   "CHEMBL1234616"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P08559"
+ },
+ "18": {
+  "chembl_targets": [
+   "CHEMBL3975"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "chembl_hits": 13,
+  "chembl_types": [
+   "IC50"
+  ],
+  "chembl_examples": [
+   "CHEMBL752 IC50=800.0nM",
+   "CHEMBL752 IC50=1000.0nM",
+   "CHEMBL752 IC50=440.0nM"
+  ],
+  "bindingdb_records": 76,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P09467"
+ },
+ "19": {
+  "chembl_targets": [
+   "CHEMBL3975"
+  ],
+  "chembl_molecules": [],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 76,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P09467"
+ },
+ "20": {
+  "chembl_targets": [
+   "CHEMBL5725151"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230809"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 3,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P11498"
+ },
+ "21": {
+  "chembl_targets": [
+   "CHEMBL5725151"
+  ],
+  "chembl_molecules": [
+   "CHEMBL274323",
+   "CHEMBL29757"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 3,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P11498"
+ },
+ "22": {
+  "chembl_targets": [
+   "CHEMBL4295678"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1161866",
+   "CHEMBL1234616"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O75390"
+ },
+ "23": {
+  "chembl_targets": [
+   "CHEMBL4295678"
+  ],
+  "chembl_molecules": [
+   "CHEMBL2338332"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O75390"
+ },
+ "24": {
+  "chembl_targets": [
+   "CHEMBL4296004"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14830"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P50213"
+ },
+ "25": {
+  "chembl_targets": [
+   "CHEMBL4296004"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P50213"
+ },
+ "26": {
+  "chembl_targets": [
+   "CHEMBL4296004"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1161866",
+   "CHEMBL1234616"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P50213"
+ },
+ "27": {
+  "chembl_targets": [
+   "CHEMBL2816"
+  ],
+  "chembl_molecules": [
+   "CHEMBL2338332"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q02218"
+ },
+ "28": {
+  "chembl_targets": [
+   "CHEMBL2816"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1161866",
+   "CHEMBL1234616"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q02218"
+ },
+ "29": {
+  "chembl_targets": [
+   "CHEMBL2816"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q02218"
+ },
+ "30": {
+  "chembl_targets": [
+   "CHEMBL5758"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1794791"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P31040"
+ },
+ "31": {
+  "chembl_targets": [
+   "CHEMBL5347"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1594246",
+   "CHEMBL1619387",
+   "CHEMBL1623059",
+   "CHEMBL407009"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P11413"
+ },
+ "32": {
+  "chembl_targets": [
+   "CHEMBL5347"
+  ],
+  "chembl_molecules": [
+   "CHEMBL2364573",
+   "CHEMBL295069",
+   "CHEMBL4299863",
+   "CHEMBL5079525"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P11413"
+ },
+ "33": {
+  "chembl_targets": [
+   "CHEMBL3404"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1594246",
+   "CHEMBL1619387",
+   "CHEMBL1623059",
+   "CHEMBL407009"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P52209"
+ },
+ "34": {
+  "chembl_targets": [
+   "CHEMBL2362992"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q06203"
+ },
+ "35": {
+  "chembl_targets": [
+   "CHEMBL2362992"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1229579",
+   "CHEMBL1242996",
+   "CHEMBL2364560",
+   "CHEMBL283807",
+   "CHEMBL6015353"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q06203"
+ },
+ "36": {
+  "chembl_targets": [
+   "CHEMBL2362992"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14830"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q06203"
+ },
+ "37": {
+  "chembl_targets": [
+   "CHEMBL2362992"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1235437",
+   "CHEMBL606077"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q06203"
+ },
+ "38": {
+  "chembl_targets": [
+   "CHEMBL2638"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14830"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 50,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P60891"
+ },
+ "39": {
+  "chembl_targets": [
+   "CHEMBL2638"
+  ],
+  "chembl_molecules": [
+   "CHEMBL384759",
+   "CHEMBL574200"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 50,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P60891"
+ },
+ "40": {
+  "chembl_targets": [
+   "CHEMBL2638"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1187"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 50,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P60891"
+ },
+ "41": {
+  "chembl_targets": [
+   "CHEMBL2002",
+   "CHEMBL2111369"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1201369",
+   "CHEMBL1233147",
+   "CHEMBL2311196",
+   "CHEMBL6041915"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 111,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P12268"
+ },
+ "42": {
+  "chembl_targets": [
+   "CHEMBL2002",
+   "CHEMBL2111369"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 111,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P12268"
+ },
+ "43": {
+  "chembl_targets": [
+   "CHEMBL4875"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1201369",
+   "CHEMBL1233147",
+   "CHEMBL2311196",
+   "CHEMBL6041915"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P30520"
+ },
+ "44": {
+  "chembl_targets": [
+   "CHEMBL3093"
+  ],
+  "chembl_molecules": [
+   "CHEMBL336296"
+  ],
+  "chembl_hits": 1,
+  "chembl_types": [
+   "Activity"
+  ],
+  "chembl_examples": [
+   "CHEMBL336296 Activity=18.0%"
+  ],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P27708"
+ },
+ "45": {
+  "chembl_targets": [
+   "CHEMBL3093"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1235437",
+   "CHEMBL606077"
+  ],
+  "chembl_hits": 1,
+  "chembl_types": [
+   "Activity"
+  ],
+  "chembl_examples": [
+   "CHEMBL606077 Activity=320.0%"
+  ],
+  "bindingdb_records": 1,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P27708"
+ },
+ "46": {
+  "chembl_targets": [
+   "CHEMBL5291524"
+  ],
+  "chembl_molecules": [
+   "CHEMBL223533",
+   "CHEMBL3417290"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q9NRF8"
+ },
+ "47": {
+  "chembl_targets": [
+   "CHEMBL5291524"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1201369",
+   "CHEMBL1233147",
+   "CHEMBL2311196",
+   "CHEMBL6041915"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q9NRF8"
+ },
+ "48": {
+  "chembl_targets": [
+   "CHEMBL1830",
+   "CHEMBL2095215",
+   "CHEMBL3301398"
+  ],
+  "chembl_molecules": [
+   "CHEMBL335538"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 81,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P23921"
+ },
+ "49": {
+  "chembl_targets": [
+   "CHEMBL1830",
+   "CHEMBL2095215",
+   "CHEMBL3301398"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 81,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P23921"
+ },
+ "50": {
+  "chembl_targets": [
+   "CHEMBL1830",
+   "CHEMBL2095215",
+   "CHEMBL3301398"
+  ],
+  "chembl_molecules": [
+   "CHEMBL477486"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 81,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P23921"
+ },
+ "51": {
+  "chembl_targets": [
+   "CHEMBL1830",
+   "CHEMBL2095215",
+   "CHEMBL3301398"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1674",
+   "CHEMBL363559"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 81,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P23921"
+ },
+ "52": {
+  "chembl_targets": [
+   "CHEMBL2883"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1674",
+   "CHEMBL363559"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 3,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P04183"
+ },
+ "53": {
+  "chembl_targets": [
+   "CHEMBL2447"
+  ],
+  "chembl_molecules": [
+   "CHEMBL560403"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 33,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P27707"
+ },
+ "54": {
+  "chembl_targets": [
+   "CHEMBL2311243"
+  ],
+  "chembl_molecules": [
+   "CHEMBL11298",
+   "CHEMBL285123",
+   "CHEMBL4650463"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 42,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O43175"
+ },
+ "55": {
+  "chembl_targets": [
+   "CHEMBL2146302",
+   "CHEMBL4106183"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1187"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 356,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O94925"
+ },
+ "56": {
+  "chembl_targets": [
+   "CHEMBL2146302",
+   "CHEMBL4106183"
+  ],
+  "chembl_molecules": [
+   "CHEMBL575060",
+   "CHEMBL76232"
+  ],
+  "chembl_hits": 1,
+  "chembl_types": [
+   "Potency"
+  ],
+  "chembl_examples": [
+   "CHEMBL575060 Potency=12589.3nM"
+  ],
+  "bindingdb_records": 356,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O94925"
+ },
+ "57": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL1201369",
+   "CHEMBL1233147",
+   "CHEMBL2311196",
+   "CHEMBL6041915"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P00367"
+ },
+ "58": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL14830"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P00367"
+ },
+ "59": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL1232258",
+   "CHEMBL291962",
+   "CHEMBL46575",
+   "CHEMBL5394043"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P00367"
+ },
+ "60": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL3904487"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P00367"
+ },
+ "61": {
+  "chembl_targets": [
+   "CHEMBL3399911"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1088977",
+   "CHEMBL1235831",
+   "CHEMBL2220241",
+   "CHEMBL224120",
+   "CHEMBL3560400",
+   "CHEMBL5172334"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P35520"
+ },
+ "62": {
+  "chembl_targets": [
+   "CHEMBL3313835"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1088977",
+   "CHEMBL1235831",
+   "CHEMBL2220241",
+   "CHEMBL224120",
+   "CHEMBL3560400",
+   "CHEMBL5172334"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 357,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P31153"
+ },
+ "63": {
+  "chembl_targets": [
+   "CHEMBL4829",
+   "CHEMBL3885507"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1261"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 760,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O00763"
+ },
+ "64": {
+  "chembl_targets": [
+   "CHEMBL4829",
+   "CHEMBL3885507"
+  ],
+  "chembl_molecules": [
+   "CHEMBL3904487"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 760,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "O00763"
+ },
+ "65": {
+  "chembl_targets": [
+   "CHEMBL1293194"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1234355"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 5,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P50416"
+ },
+ "66": {
+  "chembl_targets": [
+   "CHEMBL402",
+   "CHEMBL4630729",
+   "CHEMBL5169065"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1397369",
+   "CHEMBL225111",
+   "CHEMBL465181",
+   "CHEMBL4758980"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 48,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P04035"
+ },
+ "67": {
+  "chembl_targets": [
+   "CHEMBL2362990"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1234751",
+   "CHEMBL2142890"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 2,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P31327"
+ },
+ "68": {
+  "chembl_targets": [
+   "CHEMBL2393",
+   "CHEMBL2096907",
+   "CHEMBL2111345",
+   "CHEMBL3038453",
+   "CHEMBL3038455",
+   "CHEMBL3038456"
+  ],
+  "chembl_molecules": [
+   "CHEMBL1230732",
+   "CHEMBL16720",
+   "CHEMBL5413321",
+   "CHEMBL5902033",
+   "CHEMBL603764",
+   "CHEMBL603811",
+   "CHEMBL608290",
+   "CHEMBL6191235",
+   "CHEMBL752"
+  ],
+  "chembl_hits": 13,
+  "chembl_types": [
+   "Activity",
+   "EC50",
+   "Kd"
+  ],
+  "chembl_examples": [
+   "CHEMBL752 EC50=5900.0nM",
+   "CHEMBL752 EC50=1519.0nM",
+   "CHEMBL752 Activity=103.0%"
+  ],
+  "bindingdb_records": 88,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P54619"
+ },
+ "69": {
+  "chembl_targets": [
+   "CHEMBL2393",
+   "CHEMBL2096907",
+   "CHEMBL2111345",
+   "CHEMBL3038453",
+   "CHEMBL3038455",
+   "CHEMBL3038456"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14830"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 88,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P54619"
+ },
+ "70": {
+  "chembl_targets": [
+   "CHEMBL2393",
+   "CHEMBL2096907",
+   "CHEMBL2111345",
+   "CHEMBL3038453",
+   "CHEMBL3038455",
+   "CHEMBL3038456"
+  ],
+  "chembl_molecules": [
+   "CHEMBL14249",
+   "CHEMBL4441501"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 88,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P54619"
+ },
+ "71": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL1232258",
+   "CHEMBL291962",
+   "CHEMBL46575",
+   "CHEMBL5394043"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "P58004"
+ },
+ "72": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL1485",
+   "CHEMBL212301"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 15,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q8WTX7"
+ },
+ "73": {
+  "chembl_targets": [],
+  "chembl_molecules": [
+   "CHEMBL1088977",
+   "CHEMBL1235831",
+   "CHEMBL2220241",
+   "CHEMBL224120",
+   "CHEMBL3560400",
+   "CHEMBL5172334"
+  ],
+  "chembl_hits": 0,
+  "chembl_types": [],
+  "chembl_examples": [],
+  "bindingdb_records": 0,
+  "bindingdb_hits": 0,
+  "bindingdb_matched": [],
+  "accession": "Q1RMZ1"
+ }
+}
